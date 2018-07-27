@@ -1,0 +1,1411 @@
+﻿Log file open, 07/22/18 13:58:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Elevator_Upgraded
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(846844017) SRandInit(846844017).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.461649
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  4.139s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am JOONHO (118.34.253.132:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.22-04.58.23:205][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.22-04.58.23:205][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.22-04.58.23:299][  0]LogInit: Computer: JOONHO
+[2018.07.22-04.58.23:299][  0]LogInit: User: yeshj
+[2018.07.22-04.58.23:299][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.07.22-04.58.23:299][  0]LogInit: High frequency timer resolution =3.416972 MHz
+[2018.07.22-04.58.23:299][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2018.07.22-04.58.23:299][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.22-04.58.23:299][  0]LogMemory: Process Physical Memory: 272.86 MB used, 272.86 MB peak
+[2018.07.22-04.58.23:299][  0]LogMemory: Process Virtual Memory: 261.75 MB used, 261.75 MB peak
+[2018.07.22-04.58.23:299][  0]LogMemory: Physical Memory: 4044.68 MB used,  8162.39 MB free, 12207.07 MB total
+[2018.07.22-04.58.23:299][  0]LogMemory: Virtual Memory: 4776.07 MB used,  8162.39 MB free, 134217728.00 MB total
+[2018.07.22-04.58.23:721][  0]LogInit: Using OS detected language (ko-KR).
+[2018.07.22-04.58.23:721][  0]LogInit: Using OS detected locale (ko-KR).
+[2018.07.22-04.58.23:802][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2018.07.22-04.58.24:540][  0]LogStreaming: Display: Took  0.819s to EndInitTextLocalization.
+[2018.07.22-04.58.24:540][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.22-04.58.24:739][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.07.22-04.58.24:739][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.07.22-04.58.27:584][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.22-04.58.27:639][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.07.22-04.58.27:639][  0]LogD3D11RHI:       6052/0/6103 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.07.22-04.58.27:642][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.22-04.58.27:642][  0]LogD3D11RHI:       0/0/6103 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.22-04.58.27:642][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.22-04.58.27:647][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.22-04.58.27:647][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.22-04.58.27:647][  0]LogWindows: EnumDisplayDevices:
+[2018.07.22-04.58.27:647][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2018.07.22-04.58.27:648][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.07.22-04.58.27:648][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.07.22-04.58.27:648][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.07.22-04.58.27:648][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.22-04.58.27:648][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.07.22-04.58.27:648][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.22-04.58.27:648][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.22-04.58.27:648][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.07.22-04.58.27:687][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.22-04.58.27:687][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.22-04.58.27:688][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.22-04.58.27:773][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.07.22-04.58.27:823][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Intermediate/Shaders/WorkingDirectory/8372/).
+[2018.07.22-04.58.27:823][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/yeshj/AppData/Local/Temp/UnrealShaderWorkingDir/C58EAC66450689DD7DB6908FED1632C1/'.
+[2018.07.22-04.58.29:627][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.22-04.58.29:640][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.22-04.58.29:654][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.22-04.58.29:668][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.22-04.58.29:695][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.22-04.58.29:708][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.22-04.58.29:722][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.22-04.58.29:735][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.22-04.58.29:743][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.22-04.58.29:755][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.22-04.58.29:767][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.22-04.58.29:779][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.22-04.58.29:791][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.07.22-04.58.29:803][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.22-04.58.29:815][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.22-04.58.29:840][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.22-04.58.29:840][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.22-04.58.29:885][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.22-04.58.29:887][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.22-04.58.29:992][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.22-04.58.30:003][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.22-04.58.30:014][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.22-04.58.30:026][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.22-04.58.30:039][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.22-04.58.30:057][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.22-04.58.30:057][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.22-04.58.30:680][  0]LogXGEController: Cleaning working directory: C:/Users/yeshj/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.07.22-04.58.30:681][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.07.22-04.58.30:681][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.07.22-04.58.30:681][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.22-04.58.33:181][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.22-04.58.34:084][  0]LogDerivedDataCache: Loaded boot cache 0.90s 74MB C:/Users/yeshj/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.22-04.58.34:084][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/yeshj/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.07.22-04.58.34:084][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.22-04.58.34:084][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.22-04.58.34:084][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.22-04.58.34:084][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.22-04.58.34:149][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.22-04.58.34:161][  0]LogDerivedDataCache: Using Local data cache path C:/Users/yeshj/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.22-04.58.34:161][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.07.22-04.58.34:161][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.07.22-04.58.34:173][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.22-04.58.34:174][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.22-04.58.34:193][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.22-04.58.34:193][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.22-04.58.40:162][  0]LogAssetRegistry: FAssetRegistry took 0.0270 seconds to start up
+[2018.07.22-04.58.40:617][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.22-04.58.43:005][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.22-04.58.43:008][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.22-04.58.43:022][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.22-04.58.43:022][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.22-04.58.43:022][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.22-04.58.43:022][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.22-04.58.43:163][  0]LogNetVersion: Elevator_Upgraded , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4248376583)
+[2018.07.22-04.58.45:783][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.121595 seconds
+[2018.07.22-04.58.45:793][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.07.22-04.58.45:793][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.07.22-04.58.45:793][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.22-04.58.53:912][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.22-04.58.53:941][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.22-04.58.54:506][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.07.22-04.58.54:506][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.07.22-04.58.54:526][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.07.22-04.58.54:545][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.07.22-04.58.55:200][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.22-04.58.55:380][  0]LogOcInput: OculusInput pre-init called
+[2018.07.22-04.58.55:564][  0]LogEngine: Initializing Engine...
+[2018.07.22-04.58.55:583][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.22-04.58.55:604][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.22-04.58.55:604][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.22-04.58.56:281][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.22-04.58.56:290][  0]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.22-04.58.56:302][  0]LogInit: FAudioDevice initialized.
+[2018.07.22-04.58.56:406][  0]LogDerivedDataCache: Saved boot cache 0.10s 74MB C:/Users/yeshj/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.22-04.58.56:426][  0]LogInit: Texture streaming: Enabled
+[2018.07.22-04.58.56:443][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.22-04.58.56:602][  0]LogInit: Transaction tracking system initialized
+[2018.07.22-04.58.56:734][  0]BlueprintLog: New page: 에디터 로드
+[2018.07.22-04.58.57:425][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2018.07.22-04.58.57:929][  0]LogConsoleResponse: Display: 
+[2018.07.22-04.58.58:926][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.22-04.58.58:926][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.22-04.58.58:936][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Content/' took 0.02s
+[2018.07.22-04.58.58:936][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.22-04.58.58:936][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.22-04.58.58:936][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.22-04.59.00:060][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.07.22-04.59.00:064][  0]Cmd: MAP LOAD FILE="../../../../../../Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.22-04.59.00:065][  0]LightingResults: New page: 라이팅 빌드
+[2018.07.22-04.59.00:075][  0]MapCheck: New page: 맵 체크
+[2018.07.22-04.59.00:075][  0]LightingResults: New page: 라이팅 빌드
+[2018.07.22-04.59.00:372][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018fe4c97510, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.07.22-04.59.00:424][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018fe4c97510, Size=72
+[2018.07.22-04.59.00:424][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018fe4c277e0, Size=72, Default__FirstPerson_AnimBP_C Function /Engine/Transient.REINST_FirstPerson_AnimBP_C_0:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.07.22-04.59.00:445][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018fe4c974c0, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.07.22-04.59.00:465][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018fe491fb80, Size=168, Default__Elevator_C Function /Game/FirstPersonBP/Elevator.Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-04.59.00:471][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018fe491fb80, Size=168
+[2018.07.22-04.59.00:471][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018fe491fb80, Size=168, Default__Elevator_C Function /Engine/Transient.REINST_Elevator_C_4:ExecuteUbergraph_Elevator
+[2018.07.22-04.59.00:478][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018fe491ec80, Size=168, Default__Elevator_C Function /Game/FirstPersonBP/Elevator.Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-04.59.01:868][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018fd281b100, Size=672, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.07.22-04.59.01:877][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018fd281b100, Size=672
+[2018.07.22-04.59.01:877][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018fd281b100, Size=672, Default__FirstPersonCharacter_C Function /Engine/Transient.REINST_FirstPersonCharacter_C_6:ExecuteUbergraph_FirstPersonCharacter
+[2018.07.22-04.59.01:885][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018fe47f7700, Size=672, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.07.22-04.59.02:265][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018fe47d3318, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2018.07.22-04.59.02:267][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018fe47d3318, Size=52
+[2018.07.22-04.59.02:267][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018fe47d3318, Size=52, Default__FirstPersonHUD_C Function /Engine/Transient.REINST_FirstPersonHUD_C_10:ExecuteUbergraph_FirstPersonHUD
+[2018.07.22-04.59.02:285][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018fe47d17f8, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2018.07.22-04.59.03:376][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [24.874069ms] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2018.07.22-04.59.03:592][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [18.332314ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2018.07.22-04.59.03:624][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.07.22-04.59.03:667][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.22-04.59.03:703][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018fe4c277e0, Size=72
+[2018.07.22-04.59.03:703][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018fe491fb80, Size=168
+[2018.07.22-04.59.03:703][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018fd281b100, Size=672
+[2018.07.22-04.59.03:703][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018fe47d3318, Size=52
+[2018.07.22-04.59.03:705][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.22-04.59.03:762][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 57.166ms.
+[2018.07.22-04.59.03:762][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 3.697
+[2018.07.22-04.59.04:234][  0]LogCollectionManager: Loaded 0 collections in 0.003718 seconds
+[2018.07.22-04.59.04:310][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Saved/Collections/' took 0.02s
+[2018.07.22-04.59.04:310][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Content/Developers/yeshj/Collections/' took 0.01s
+[2018.07.22-04.59.04:310][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Content/Collections/' took 0.01s
+[2018.07.22-04.59.04:310][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.07.22-04.59.04:332][  0]LogContentBrowser: Native class hierarchy populated in 0.0169 seconds. Added 2452 classes and 558 folders.
+[2018.07.22-04.59.04:349][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.07.22-04.59.05:227][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.07.22-04.59.05:232][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.07.22-04.59.05:332][  0]LogSlate: Took 0.025202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.22-04.59.05:384][  0]LogSlate: Took 0.050552 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.07.22-04.59.05:414][  0]LogSlate: Took 0.029400 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2018.07.22-04.59.05:448][  0]LogSlate: Took 0.034399 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.22-04.59.05:480][  0]LogSlate: Took 0.025777 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.22-04.59.05:806][  0]LogRenderer: Reallocating scene render targets to support 1276x724 Format 10 NumSamples 1 (Frame:1).
+[2018.07.22-04.59.06:047][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.22-04.59.06:047][  0]LogLoad: (Engine Initialization) Total time: 53.14 seconds
+[2018.07.22-04.59.06:048][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.22-04.59.06:421][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.07.22-04.59.06:482][  0]LogSlate: Took 0.005277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.22-04.59.06:735][  1]LogAssetRegistry: Asset discovery search completed in 26.5955 seconds
+[2018.07.22-04.59.06:737][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.07.22-04.59.06:737][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000059 seconds (updated 0 objects)
+[2018.07.22-04.59.07:389][  3]LogSlate: Took 0.000356 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.22-04.59.09:716][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-04.59.10:204][ 10]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.07.22-04.59.10:498][ 10]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f997381d0, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.22-04.59.10:499][ 10]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f99738198, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.22-04.59.11:062][ 10]LogSlate: Took 0.004223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.22-04.59.11:274][ 11]LogSlate: Took 0.005392 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.22-04.59.12:926][157]LogSlate: Window 'Elevator' being destroyed
+[2018.07.22-04.59.14:115][293]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-04.59.38:548][171]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-04.59.38:615][179]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.07.22-04.59.38:634][179]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.22-04.59.38:634][179]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.22-04.59.38:669][179]PIE: New page: PIE 세션: FirstPersonExampleMap (2018. 7. 22. 오후 10:59:38)
+[2018.07.22-04.59.38:669][179]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.07.22-04.59.38:698][179]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029322s)
+[2018.07.22-04.59.38:699][179]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.07.22-04.59.38:699][179]LogPlayLevel: PIE: World Init took: (0.000904s)
+[2018.07.22-04.59.38:700][179]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.030433s)
+[2018.07.22-04.59.38:727][179]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.22-04.59.38:735][179]LogInit: FAudioDevice initialized.
+[2018.07.22-04.59.38:778][179]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.07.22-04.59.38:780][179]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.07.22-13.59.38
+[2018.07.22-04.59.38:781][179]LogWorld: Bringing up level for play took: 0.001594
+[2018.07.22-04.59.38:810][179]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.07.22-04.59.38:810][179]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.885
+[2018.07.22-04.59.38:811][179]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.22-04.59.41:031][426]LogBlueprintUserMessages: [Elevator_36947] ElevatorFirstPersonCharacter
+[2018.07.22-04.59.41:758][513]LogBlueprintUserMessages: [Elevator_36947] ElevatorFirstPersonCharacter
+[2018.07.22-04.59.45:583][972]LogBlueprintUserMessages: [Elevator_36947] ElevatorFirstPersonCharacter
+[2018.07.22-04.59.47:875][247]LogBlueprintUserMessages: [Elevator_36947] ElevatorFirstPersonCharacter
+[2018.07.22-04.59.49:409][431]LogBlueprintUserMessages: [Elevator_36947] ElevatorFirstPersonCharacter
+[2018.07.22-04.59.51:642][699]LogBlueprintUserMessages: [Elevator_36947] ElevatorFirstPersonCharacter
+[2018.07.22-04.59.55:317][140]LogBlueprintUserMessages: [Elevator_36947] ElevatorFirstPersonCharacter
+[2018.07.22-05.00.04:845][283]LogBlueprintUserMessages: [Elevator_36947] ElevatorFirstPersonCharacter
+[2018.07.22-05.00.07:263][573]LogBlueprintUserMessages: [Elevator_36947] ElevatorFirstPersonCharacter
+[2018.07.22-05.00.08:897][769]LogBlueprintUserMessages: [Elevator_36947] ElevatorFirstPersonCharacter
+[2018.07.22-05.00.08:905][770]LogBlueprintUserMessages: [Elevator_36947] ElevatorFirstPersonCharacter
+[2018.07.22-05.00.08:913][771]LogBlueprintUserMessages: [Elevator_36947] ElevatorFirstPersonCharacter
+[2018.07.22-05.00.08:922][772]LogBlueprintUserMessages: [Elevator_36947] ElevatorFirstPersonCharacter
+[2018.07.22-05.00.09:397][829]LogBlueprintUserMessages: [Elevator_36947] ElevatorFirstPersonCharacter
+[2018.07.22-05.00.10:180][923]LogBlueprintUserMessages: [Elevator_36947] ElevatorFirstPersonCharacter
+[2018.07.22-05.00.12:196][165]LogBlueprintUserMessages: [Elevator_36947] ElevatorFirstPersonCharacter
+[2018.07.22-05.00.12:697][225]LogBlueprintUserMessages: [Elevator_36947] ElevatorFirstPersonCharacter
+[2018.07.22-05.00.12:705][226]LogBlueprintUserMessages: [Elevator_36947] ElevatorFirstPersonCharacter
+[2018.07.22-05.00.13:464][317]LogBlueprintUserMessages: [Elevator_36947] ElevatorFirstPersonCharacter
+[2018.07.22-05.00.13:871][364]LogBlueprintUserMessages: [Elevator_36947] ElevatorFirstPersonCharacter
+[2018.07.22-05.00.13:937][372]LogBlueprintUserMessages: [Elevator_36947] ElevatorFirstPersonCharacter
+[2018.07.22-05.00.14:996][499]LogBlueprintUserMessages: [Elevator_36947] ElevatorFirstPersonCharacter
+[2018.07.22-05.00.15:805][596]LogBlueprintUserMessages: [Elevator_36947] ElevatorFirstPersonCharacter
+[2018.07.22-05.00.16:422][670]LogBlueprintUserMessages: [Elevator_36947] ElevatorFirstPersonCharacter
+[2018.07.22-05.00.17:096][751]LogBlueprintUserMessages: [Elevator_36947] ElevatorFirstPersonCharacter
+[2018.07.22-05.00.18:279][893]LogBlueprintUserMessages: [Elevator_36947] ElevatorFirstPersonCharacter
+[2018.07.22-05.00.18:538][924]LogBlueprintUserMessages: [Elevator_36947] ElevatorFirstPersonCharacter
+[2018.07.22-05.00.18:913][969]LogBlueprintUserMessages: [Elevator_36947] ElevatorFirstPersonCharacter
+[2018.07.22-05.00.19:605][ 52]LogBlueprintUserMessages: [Elevator_36947] ElevatorFirstPersonCharacter
+[2018.07.22-05.00.19:788][ 74]LogBlueprintUserMessages: [Elevator_36947] ElevatorFirstPersonCharacter
+[2018.07.22-05.00.20:138][116]LogBlueprintUserMessages: [Elevator_36947] ElevatorFirstPersonCharacter
+[2018.07.22-05.00.20:371][144]LogBlueprintUserMessages: [Elevator_36947] ElevatorFirstPersonCharacter
+[2018.07.22-05.00.20:821][198]LogBlueprintUserMessages: [Elevator_36947] ElevatorFirstPersonCharacter
+[2018.07.22-05.00.23:055][466]LogBlueprintUserMessages: [Elevator_36947] ElevatorFirstPersonCharacter
+[2018.07.22-05.00.23:064][467]LogBlueprintUserMessages: [Elevator_36947] ElevatorFirstPersonCharacter
+[2018.07.22-05.00.23:513][521]LogBlueprintUserMessages: [Elevator_36947] ElevatorFirstPersonCharacter
+[2018.07.22-05.00.24:698][663]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.22-05.00.24:743][663]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.22-05.00.29:117][174]LogEditorViewport: Clicking on Actor (LMB): Elevator_C (Elevator)
+[2018.07.22-05.00.30:334][312]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.00.35:564][926]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.01.19:014][ 93]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f82bb6b48, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.01.19:044][ 93]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f82bb6b48, Size=4
+[2018.07.22-05.01.19:045][ 93]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f82bb6b48, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_28:ExecuteUbergraph_Elevator
+[2018.07.22-05.01.19:047][ 93]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f82bb7bd0, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.01.45:804][110]LogSlate: Window '부모 클래스 선택' being destroyed
+[2018.07.22-05.01.47:428][249]LogRenderer: Reallocating scene render targets to support 1276x744 Format 10 NumSamples 1 (Frame:1).
+[2018.07.22-05.02.03:042][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.02.16:979][672]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f8dd504f8, Size=4, Default__SKEL_NewBlueprint_C Function /Game/FirstPersonBP/NewBlueprint.SKEL_NewBlueprint_C:ExecuteUbergraph_NewBlueprint
+[2018.07.22-05.02.34:847][772]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f8dd504f8, Size=4
+[2018.07.22-05.02.34:848][772]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f8db54de0, Size=4, Default__SKEL_NewBlueprint_C Function /Engine/Transient.REINST_SKEL_NewBlueprint_C_38:ExecuteUbergraph_NewBlueprint
+[2018.07.22-05.02.34:850][772]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f8db54ed0, Size=4, Default__SKEL_NewBlueprint_C Function /Game/FirstPersonBP/NewBlueprint.SKEL_NewBlueprint_C:ExecuteUbergraph_NewBlueprint
+[2018.07.22-05.03.17:266][794]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f8db54ed0, Size=4
+[2018.07.22-05.03.17:266][794]LogUObjectGlobals: Created PersistentFrame Addr=0x000001900826aeb0, Size=4, Default__SKEL_NewBlueprint_C Function /Engine/Transient.REINST_SKEL_NewBlueprint_C_40:ExecuteUbergraph_NewBlueprint
+[2018.07.22-05.03.17:269][794]LogUObjectGlobals: Created PersistentFrame Addr=0x000001900826af38, Size=4, Default__SKEL_NewBlueprint_C Function /Game/FirstPersonBP/NewBlueprint.SKEL_NewBlueprint_C:ExecuteUbergraph_NewBlueprint
+[2018.07.22-05.03.18:993][993]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001900826af38, Size=4
+[2018.07.22-05.03.18:993][993]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f8df42280, Size=4, Default__SKEL_NewBlueprint_C Function /Engine/Transient.REINST_SKEL_NewBlueprint_C_42:ExecuteUbergraph_NewBlueprint
+[2018.07.22-05.03.18:995][993]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f8df423c0, Size=4, Default__SKEL_NewBlueprint_C Function /Game/FirstPersonBP/NewBlueprint.SKEL_NewBlueprint_C:ExecuteUbergraph_NewBlueprint
+[2018.07.22-05.03.33:690][723]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f8df423c0, Size=4
+[2018.07.22-05.03.33:690][723]LogUObjectGlobals: Created PersistentFrame Addr=0x000001900895f720, Size=4, Default__SKEL_NewBlueprint_C Function /Engine/Transient.REINST_SKEL_NewBlueprint_C_44:ExecuteUbergraph_NewBlueprint
+[2018.07.22-05.03.33:692][723]LogUObjectGlobals: Created PersistentFrame Addr=0x000001900895c328, Size=4, Default__SKEL_NewBlueprint_C Function /Game/FirstPersonBP/NewBlueprint.SKEL_NewBlueprint_C:ExecuteUbergraph_NewBlueprint
+[2018.07.22-05.03.35:735][963]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001900895c328, Size=4
+[2018.07.22-05.03.35:735][963]LogUObjectGlobals: Created PersistentFrame Addr=0x000001900826a5d8, Size=4, Default__SKEL_NewBlueprint_C Function /Engine/Transient.REINST_SKEL_NewBlueprint_C_46:ExecuteUbergraph_NewBlueprint
+[2018.07.22-05.03.35:737][963]LogUObjectGlobals: Created PersistentFrame Addr=0x000001900826a630, Size=4, Default__SKEL_NewBlueprint_C Function /Game/FirstPersonBP/NewBlueprint.SKEL_NewBlueprint_C:ExecuteUbergraph_NewBlueprint
+[2018.07.22-05.04.32:487][724]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001900826a630, Size=4
+[2018.07.22-05.04.32:487][724]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f8e1f1ec0, Size=4, Default__SKEL_NewBlueprint_C Function /Engine/Transient.REINST_SKEL_NewBlueprint_C_48:ExecuteUbergraph_NewBlueprint
+[2018.07.22-05.04.32:489][724]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f8e1f1e48, Size=4, Default__SKEL_NewBlueprint_C Function /Game/FirstPersonBP/NewBlueprint.SKEL_NewBlueprint_C:ExecuteUbergraph_NewBlueprint
+[2018.07.22-05.05.59:106][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f8e1f1e48, Size=4
+[2018.07.22-05.05.59:106][433]LogUObjectGlobals: Created PersistentFrame Addr=0x000001900895ec08, Size=4, Default__SKEL_NewBlueprint_C Function /Engine/Transient.REINST_SKEL_NewBlueprint_C_50:ExecuteUbergraph_NewBlueprint
+[2018.07.22-05.05.59:108][433]LogUObjectGlobals: Created PersistentFrame Addr=0x000001900895edb0, Size=4, Default__SKEL_NewBlueprint_C Function /Game/FirstPersonBP/NewBlueprint.SKEL_NewBlueprint_C:ExecuteUbergraph_NewBlueprint
+[2018.07.22-05.05.59:114][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001900895edb0, Size=4
+[2018.07.22-05.05.59:114][433]LogUObjectGlobals: Created PersistentFrame Addr=0x000001900895edb0, Size=4, Default__SKEL_NewBlueprint_C Function /Engine/Transient.REINST_SKEL_NewBlueprint_C_52:ExecuteUbergraph_NewBlueprint
+[2018.07.22-05.05.59:115][433]LogUObjectGlobals: Created PersistentFrame Addr=0x000001900895ca48, Size=4, Default__SKEL_NewBlueprint_C Function /Game/FirstPersonBP/NewBlueprint.SKEL_NewBlueprint_C:ExecuteUbergraph_NewBlueprint
+[2018.07.22-05.06.19:857][884]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001900895ca48, Size=4
+[2018.07.22-05.06.19:857][884]LogUObjectGlobals: Created PersistentFrame Addr=0x000001901dd5db78, Size=4, Default__SKEL_NewBlueprint_C Function /Engine/Transient.REINST_SKEL_NewBlueprint_C_54:ExecuteUbergraph_NewBlueprint
+[2018.07.22-05.06.19:859][884]LogUObjectGlobals: Created PersistentFrame Addr=0x000001901dd5d9b0, Size=4, Default__SKEL_NewBlueprint_C Function /Game/FirstPersonBP/NewBlueprint.SKEL_NewBlueprint_C:ExecuteUbergraph_NewBlueprint
+[2018.07.22-05.06.21:266][ 48]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001901dd5d9b0, Size=4
+[2018.07.22-05.06.21:266][ 48]LogUObjectGlobals: Created PersistentFrame Addr=0x000001901df0c448, Size=4, Default__SKEL_NewBlueprint_C Function /Engine/Transient.REINST_SKEL_NewBlueprint_C_56:ExecuteUbergraph_NewBlueprint
+[2018.07.22-05.06.21:268][ 48]LogUObjectGlobals: Created PersistentFrame Addr=0x000001901df0c568, Size=4, Default__SKEL_NewBlueprint_C Function /Game/FirstPersonBP/NewBlueprint.SKEL_NewBlueprint_C:ExecuteUbergraph_NewBlueprint
+[2018.07.22-05.06.33:876][548]BlueprintLog: New page: NewBlueprint 컴파일
+[2018.07.22-05.06.33:879][548]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001901df0c568, Size=4
+[2018.07.22-05.06.33:879][548]LogUObjectGlobals: Created PersistentFrame Addr=0x000001900826bb40, Size=4, Default__SKEL_NewBlueprint_C Function /Engine/Transient.REINST_SKEL_NewBlueprint_C_58:ExecuteUbergraph_NewBlueprint
+[2018.07.22-05.06.33:894][548]LogBlueprint: Error: [Compiler NewBlueprint] 이벤트 디스패처 핀이  OnComponentBeginOverlap 에 이벤트 바인딩  에 연결되지 않았습니다.
+[2018.07.22-05.06.33:894][548]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f8deaf580, Size=208, Default__NewBlueprint_C Function /Game/FirstPersonBP/NewBlueprint.NewBlueprint_C:ExecuteUbergraph_NewBlueprint
+[2018.07.22-05.06.34:009][548]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001900826bb40, Size=4
+[2018.07.22-05.06.34:009][548]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001901df0c448, Size=4
+[2018.07.22-05.06.34:009][548]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001901dd5db78, Size=4
+[2018.07.22-05.06.34:010][548]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001900895edb0, Size=4
+[2018.07.22-05.06.34:010][548]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001900895ec08, Size=4
+[2018.07.22-05.06.34:010][548]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f8e1f1ec0, Size=4
+[2018.07.22-05.06.34:010][548]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001900826a5d8, Size=4
+[2018.07.22-05.06.34:010][548]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001900895f720, Size=4
+[2018.07.22-05.06.34:010][548]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f8df42280, Size=4
+[2018.07.22-05.06.34:010][548]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001900826aeb0, Size=4
+[2018.07.22-05.06.34:010][548]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f8db54de0, Size=4
+[2018.07.22-05.06.34:010][548]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f82bb6b48, Size=4
+[2018.07.22-05.06.34:018][548]LogBlueprint: Warning: [Compiler NewBlueprint] [0501.11] NewBlueprint 컴파일에 실패했습니다. 치명적 오류 1 회, 경고 0 회, [소요시간 141 ms] (/Game/FirstPersonBP/NewBlueprint.NewBlueprint)
+[2018.07.22-05.07.24:936][575]BlueprintLog: New page: NewBlueprint 컴파일
+[2018.07.22-05.07.24:943][575]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f8deaf580, Size=208
+[2018.07.22-05.07.24:943][575]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019021fc5a60, Size=208, NewBlueprint_C_96 Function /Engine/Transient.REINST_NewBlueprint_C_64:ExecuteUbergraph_NewBlueprint
+[2018.07.22-05.07.24:945][575]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019021fc49c0, Size=208, Default__NewBlueprint_C Function /Game/FirstPersonBP/NewBlueprint.NewBlueprint_C:ExecuteUbergraph_NewBlueprint
+[2018.07.22-05.08.21:983][973]LogUObjectGlobals: Created PersistentFrame Addr=0x000001900826ae50, Size=4, Default__SKEL_NewBlueprint_C Function /Game/FirstPersonBP/NewBlueprint.SKEL_NewBlueprint_C:ExecuteUbergraph_NewBlueprint
+[2018.07.22-05.08.22:663][ 50]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001900826ae50, Size=4
+[2018.07.22-05.08.22:663][ 50]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019021710fa8, Size=4, Default__SKEL_NewBlueprint_C Function /Engine/Transient.REINST_SKEL_NewBlueprint_C_68:ExecuteUbergraph_NewBlueprint
+[2018.07.22-05.08.22:665][ 50]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190217122c8, Size=4, Default__SKEL_NewBlueprint_C Function /Game/FirstPersonBP/NewBlueprint.SKEL_NewBlueprint_C:ExecuteUbergraph_NewBlueprint
+[2018.07.22-05.08.22:673][ 50]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190217122c8, Size=4
+[2018.07.22-05.08.22:673][ 50]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190217122c8, Size=4, Default__SKEL_NewBlueprint_C Function /Engine/Transient.REINST_SKEL_NewBlueprint_C_70:ExecuteUbergraph_NewBlueprint
+[2018.07.22-05.08.22:675][ 50]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019021710970, Size=4, Default__SKEL_NewBlueprint_C Function /Game/FirstPersonBP/NewBlueprint.SKEL_NewBlueprint_C:ExecuteUbergraph_NewBlueprint
+[2018.07.22-05.10.02:320][996]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019021fc5a60, Size=208
+[2018.07.22-05.10.02:320][996]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019021710fa8, Size=4
+[2018.07.22-05.10.02:320][996]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190217122c8, Size=4
+[2018.07.22-05.10.02:509][996]LogSavePackage: Save=116.60ms
+[2018.07.22-05.10.02:510][996]LogSavePackage: Moving '../../../../../../Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Saved/FirstPersonExampleMap_Auto1203A6A9445231ABA54E6A69641EB76B0.tmp' to '../../../../../../Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2018.07.22-05.10.02:511][996]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap
+[2018.07.22-05.10.02:513][996]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.214
+[2018.07.22-05.10.02:513][996]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.214
+[2018.07.22-05.10.02:515][996]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Elevator] ([1] browsable assets)...
+[2018.07.22-05.10.02:529][996]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Elevator.Elevator]
+[2018.07.22-05.10.02:529][996]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Elevator]
+[2018.07.22-05.10.02:580][996]LogSavePackage: Save=42.73ms
+[2018.07.22-05.10.02:580][996]LogSavePackage: Moving '../../../../../../Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Saved/Elevator_Auto17E3790E74540361A303A34AFCAE99101.tmp' to '../../../../../../Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Saved/Autosaves/Game/FirstPersonBP/Elevator_Auto1.uasset'
+[2018.07.22-05.10.02:581][996]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Saved/Autosaves/Game/FirstPersonBP/Elevator_Auto1.uasset
+[2018.07.22-05.10.02:582][996]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/NewBlueprint] ([1] browsable assets)...
+[2018.07.22-05.10.02:582][996]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/NewBlueprint]
+[2018.07.22-05.10.02:598][996]LogSavePackage: Save=14.79ms
+[2018.07.22-05.10.02:598][996]LogSavePackage: Moving '../../../../../../Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Saved/NewBlueprint_Auto1F3E6538F42822704AF1366AEE367A9EA.tmp' to '../../../../../../Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Saved/Autosaves/Game/FirstPersonBP/NewBlueprint_Auto1.uasset'
+[2018.07.22-05.10.02:599][996]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Saved/Autosaves/Game/FirstPersonBP/NewBlueprint_Auto1.uasset
+[2018.07.22-05.10.02:599][996]LogFileHelpers: Auto-saving content packages took 0.086
+[2018.07.22-05.11.02:940][219]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f82bb7bd0, Size=4
+[2018.07.22-05.11.02:940][219]LogUObjectGlobals: Created PersistentFrame Addr=0x000001902154a660, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_76:ExecuteUbergraph_Elevator
+[2018.07.22-05.11.02:943][219]LogUObjectGlobals: Created PersistentFrame Addr=0x000001902154b580, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.11.10:038][ 55]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001902154b580, Size=4
+[2018.07.22-05.11.10:038][ 55]LogUObjectGlobals: Created PersistentFrame Addr=0x000001902154b580, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_78:ExecuteUbergraph_Elevator
+[2018.07.22-05.11.10:040][ 55]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019021548f98, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.13.39:232][321]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.07.22-05.13.42:614][697]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001902154a660, Size=4
+[2018.07.22-05.13.42:614][697]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001902154b580, Size=4
+[2018.07.22-05.13.44:414][697]LogSlate: Window 'Delete Assets' being destroyed
+[2018.07.22-05.13.44:503][697]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019021fc49c0, Size=208
+[2018.07.22-05.13.44:503][697]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019021710970, Size=4
+[2018.07.22-05.13.50:399][393]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.14.11:985][966]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019021548f98, Size=4
+[2018.07.22-05.14.11:985][966]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020c55bb8, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_80:ExecuteUbergraph_Elevator
+[2018.07.22-05.14.11:987][966]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020c57d78, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.14.12:007][966]LogBlueprint: Error: [Compiler ] BeginPlay 이벤트  : 함수 그래프에 배치할 수 없습니다.
+[2018.07.22-05.14.12:007][966]BlueprintLog: New page: 함수로 접기
+[2018.07.22-05.14.12:007][966]BlueprintLog: Error: BeginPlay 이벤트  : 함수 그래프에 배치할 수 없습니다.
+[2018.07.22-05.14.12:019][966]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019020c57d78, Size=4
+[2018.07.22-05.14.12:019][966]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020c57d78, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_82:ExecuteUbergraph_Elevator
+[2018.07.22-05.14.12:021][966]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020c56aa0, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.14.12:029][966]LogBlueprint: Warning: [Compiler ] [0959.12]  컴파일에 실패했습니다. 치명적 오류 1 회, 경고 0 회, [소요시간 10 ms] ()
+[2018.07.22-05.14.14:142][213]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019020c56aa0, Size=4
+[2018.07.22-05.14.14:142][213]LogUObjectGlobals: Created PersistentFrame Addr=0x000001902127f1a0, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_84:ExecuteUbergraph_Elevator
+[2018.07.22-05.14.14:144][213]LogUObjectGlobals: Created PersistentFrame Addr=0x000001902127eeb0, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.14.14:154][213]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001902127eeb0, Size=4
+[2018.07.22-05.14.14:154][213]LogUObjectGlobals: Created PersistentFrame Addr=0x000001902127eeb0, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_86:ExecuteUbergraph_Elevator
+[2018.07.22-05.14.14:157][213]LogUObjectGlobals: Created PersistentFrame Addr=0x000001902127dd38, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.14.15:979][424]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001902127dd38, Size=4
+[2018.07.22-05.14.15:979][424]LogUObjectGlobals: Created PersistentFrame Addr=0x000001901df0fcb0, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_88:ExecuteUbergraph_Elevator
+[2018.07.22-05.14.15:981][424]LogUObjectGlobals: Created PersistentFrame Addr=0x000001901df0f1d0, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.14.16:801][518]LogEditorTransaction: Undo 노드 이름변경
+[2018.07.22-05.14.16:813][518]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001901df0f1d0, Size=4
+[2018.07.22-05.14.16:813][518]LogUObjectGlobals: Created PersistentFrame Addr=0x000001901df0f1d0, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_90:ExecuteUbergraph_Elevator
+[2018.07.22-05.14.16:815][518]LogUObjectGlobals: Created PersistentFrame Addr=0x000001901df0f5e8, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.14.17:882][640]LogEditorTransaction: Undo 선택된 노드를 하나의 노드로 접습니다.
+[2018.07.22-05.14.17:889][640]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001901df0f5e8, Size=4
+[2018.07.22-05.14.17:889][640]LogUObjectGlobals: Created PersistentFrame Addr=0x000001902127e4d0, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_92:ExecuteUbergraph_Elevator
+[2018.07.22-05.14.17:891][640]LogUObjectGlobals: Created PersistentFrame Addr=0x000001902127cf50, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.14.53:558][900]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001902127cf50, Size=4
+[2018.07.22-05.14.53:558][900]LogUObjectGlobals: Created PersistentFrame Addr=0x000001902161d408, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_94:ExecuteUbergraph_Elevator
+[2018.07.22-05.14.53:561][900]LogUObjectGlobals: Created PersistentFrame Addr=0x000001902161ed98, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.15.07:263][522]LogEditorTransaction: Undo Add Component
+[2018.07.22-05.15.07:268][522]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001902161ed98, Size=4
+[2018.07.22-05.15.07:268][522]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020d40a68, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_96:ExecuteUbergraph_Elevator
+[2018.07.22-05.15.07:270][522]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020d439c0, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.15.27:478][927]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019020d439c0, Size=4
+[2018.07.22-05.15.27:478][927]LogUObjectGlobals: Created PersistentFrame Addr=0x000001902ab8c930, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_98:ExecuteUbergraph_Elevator
+[2018.07.22-05.15.27:480][927]LogUObjectGlobals: Created PersistentFrame Addr=0x000001902ab8dfa0, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.16.10:114][860]BlueprintLog: New page: Elevator 컴파일
+[2018.07.22-05.16.10:123][860]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001902ab8dfa0, Size=4
+[2018.07.22-05.16.10:123][860]LogUObjectGlobals: Created PersistentFrame Addr=0x000001902135df30, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_100:ExecuteUbergraph_Elevator
+[2018.07.22-05.16.10:153][860]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018fe491ec80, Size=168
+[2018.07.22-05.16.10:154][860]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019001dea2c0, Size=168, Default__Elevator_C Function /Engine/Transient.REINST_Elevator_C_104:ExecuteUbergraph_Elevator
+[2018.07.22-05.16.10:154][860]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018fe47f7700, Size=672
+[2018.07.22-05.16.10:154][860]LogUObjectGlobals: Created PersistentFrame Addr=0x000001902ac72200, Size=672, Default__FirstPersonCharacter_C Function /Engine/Transient.REINST_FirstPersonCharacter_C_105:ExecuteUbergraph_FirstPersonCharacter
+[2018.07.22-05.16.10:164][860]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190209bbec0, Size=80, Default__Elevator_C Function /Game/FirstPersonBP/Elevator.Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.16.10:166][860]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018fc718e200, Size=672, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.07.22-05.16.10:642][860]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001901df0f1d0, Size=4
+[2018.07.22-05.16.10:642][860]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019020c57d78, Size=4
+[2018.07.22-05.16.10:642][860]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001901df0fcb0, Size=4
+[2018.07.22-05.16.10:642][860]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001902127eeb0, Size=4
+[2018.07.22-05.16.10:642][860]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019020c55bb8, Size=4
+[2018.07.22-05.16.10:642][860]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001902127f1a0, Size=4
+[2018.07.22-05.16.10:642][860]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001902127e4d0, Size=4
+[2018.07.22-05.16.10:642][860]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001902161d408, Size=4
+[2018.07.22-05.16.10:642][860]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019020d40a68, Size=4
+[2018.07.22-05.16.10:642][860]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001902ab8c930, Size=4
+[2018.07.22-05.16.10:642][860]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001902135df30, Size=4
+[2018.07.22-05.16.20:911][ 58]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.07.22-05.16.22:035][183]LogEditorViewport: Clicking on Actor (LMB): Elevator_C (Elevator)
+[2018.07.22-05.16.24:257][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.17.27:414][823]BlueprintLog: New page: Elevator 컴파일
+[2018.07.22-05.17.27:435][823]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190209bbec0, Size=80
+[2018.07.22-05.17.27:435][823]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f985c5170, Size=80, Elevator_C_523 Function /Engine/Transient.REINST_Elevator_C_112:ExecuteUbergraph_Elevator
+[2018.07.22-05.17.27:439][823]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020525d50, Size=80, Default__Elevator_C Function /Game/FirstPersonBP/Elevator.Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.17.27:747][823]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019001dea2c0, Size=168
+[2018.07.22-05.17.37:072][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.17.37:149][911]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.07.22-05.17.37:178][911]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.22-05.17.37:178][911]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.22-05.17.37:178][911]PIE: New page: PIE 세션: FirstPersonExampleMap (2018. 7. 22. 오후 11:17:37)
+[2018.07.22-05.17.37:178][911]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.07.22-05.17.37:193][911]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014269s)
+[2018.07.22-05.17.37:193][911]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.07.22-05.17.37:194][911]LogPlayLevel: PIE: World Init took: (0.000872s)
+[2018.07.22-05.17.37:194][911]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.015333s)
+[2018.07.22-05.17.37:214][911]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f985c5170, Size=80
+[2018.07.22-05.17.37:221][911]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.22-05.17.37:229][911]LogInit: FAudioDevice initialized.
+[2018.07.22-05.17.37:260][911]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.07.22-05.17.37:262][911]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.07.22-14.17.37
+[2018.07.22-05.17.37:262][911]LogWorld: Bringing up level for play took: 0.001481
+[2018.07.22-05.17.37:263][911]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.662
+[2018.07.22-05.17.37:263][911]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.22-05.17.47:788][170]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.22-05.17.47:825][170]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.22-05.17.53:167][793]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.19.02:718][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.19.02:776][ 92]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.07.22-05.19.02:794][ 92]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.22-05.19.02:794][ 92]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.22-05.19.02:795][ 92]PIE: New page: PIE 세션: FirstPersonExampleMap (2018. 7. 22. 오후 11:19:02)
+[2018.07.22-05.19.02:795][ 92]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.07.22-05.19.02:810][ 92]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015113s)
+[2018.07.22-05.19.02:811][ 92]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.07.22-05.19.02:811][ 92]LogPlayLevel: PIE: World Init took: (0.000980s)
+[2018.07.22-05.19.02:811][ 92]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.016262s)
+[2018.07.22-05.19.02:839][ 92]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.22-05.19.02:847][ 92]LogInit: FAudioDevice initialized.
+[2018.07.22-05.19.02:882][ 92]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.07.22-05.19.02:884][ 92]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.07.22-14.19.02
+[2018.07.22-05.19.02:884][ 92]LogWorld: Bringing up level for play took: 0.001560
+[2018.07.22-05.19.02:885][ 92]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.96
+[2018.07.22-05.19.02:886][ 92]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.22-05.19.05:417][392]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.22-05.19.05:461][392]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.22-05.19.09:406][854]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.19.47:318][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.19.48:904][573]LogRenderer: Reallocating scene render targets to support 1276x940 Format 10 NumSamples 1 (Frame:1).
+[2018.07.22-05.19.58:207][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.20.01:507][ 76]LogEditorTransaction: Undo 컴포넌트 변경
+[2018.07.22-05.20.02:866][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.20.05:356][524]LogEditorTransaction: Undo 컴포넌트 변경
+[2018.07.22-05.20.06:509][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.20.09:898][ 55]LogEditorTransaction: Undo 컴포넌트 변경
+[2018.07.22-05.20.11:519][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.20.17:229][906]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.20.47:849][967]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018ffedc25b8, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.20.47:859][967]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_466 에 접근하려 하였으나, TRASH_ArrowComponent_466 는 킬 대기중입니다.
+	Elevator_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Elevator_36947
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.20.47:862][967]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_1178 에 접근하려 하였으나, TRASH_ArrowComponent_1178 는 킬 대기중입니다.
+	Elevator_C /Engine/Transient.World_1:PersistentLevel.Elevator_C_1
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.20.47:863][967]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_1192 에 접근하려 하였으나, TRASH_ArrowComponent_1192 는 킬 대기중입니다.
+	Elevator_C /Engine/Transient.World_0:PersistentLevel.Elevator_C_552
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.20.47:891][967]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_1178 에 접근하려 하였으나, TRASH_ArrowComponent_1178 는 킬 대기중입니다.
+	Elevator_C /Engine/Transient.World_1:PersistentLevel.Elevator_C_1
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.20.57:775][152]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.21.23:904][277]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.21.28:954][877]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018ffedc25b8, Size=4
+[2018.07.22-05.21.28:954][877]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020b78220, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_116:ExecuteUbergraph_Elevator
+[2018.07.22-05.21.28:956][877]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018ffedc04a0, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.21.28:959][877]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_466 에 접근하려 하였으나, TRASH_ArrowComponent_466 는 킬 대기중입니다.
+	Elevator_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Elevator_36947
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.21.28:961][877]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_1178 에 접근하려 하였으나, TRASH_ArrowComponent_1178 는 킬 대기중입니다.
+	Elevator_C /Engine/Transient.World_1:PersistentLevel.Elevator_C_1
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.21.28:962][877]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_1192 에 접근하려 하였으나, TRASH_ArrowComponent_1192 는 킬 대기중입니다.
+	Elevator_C /Engine/Transient.World_0:PersistentLevel.Elevator_C_552
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.21.28:998][877]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_1178 에 접근하려 하였으나, TRASH_ArrowComponent_1178 는 킬 대기중입니다.
+	Elevator_C /Engine/Transient.World_1:PersistentLevel.Elevator_C_1
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.21.30:741][ 85]LogEditorTransaction: Undo Add Component
+[2018.07.22-05.21.30:743][ 85]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_466 에 접근하려 하였으나, TRASH_ArrowComponent_466 는 킬 대기중입니다.
+	Elevator_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Elevator_36947
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.21.30:745][ 85]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_1178 에 접근하려 하였으나, TRASH_ArrowComponent_1178 는 킬 대기중입니다.
+	Elevator_C /Engine/Transient.World_1:PersistentLevel.Elevator_C_1
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.21.30:746][ 85]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018ffedc04a0, Size=4
+[2018.07.22-05.21.30:746][ 85]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190207dde10, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_118:ExecuteUbergraph_Elevator
+[2018.07.22-05.21.30:748][ 85]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190207dc2d8, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.21.30:751][ 85]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_466 에 접근하려 하였으나, TRASH_ArrowComponent_466 는 킬 대기중입니다.
+	Elevator_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Elevator_36947
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.21.30:753][ 85]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_1178 에 접근하려 하였으나, TRASH_ArrowComponent_1178 는 킬 대기중입니다.
+	Elevator_C /Engine/Transient.World_1:PersistentLevel.Elevator_C_1
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.21.30:754][ 85]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_1192 에 접근하려 하였으나, TRASH_ArrowComponent_1192 는 킬 대기중입니다.
+	Elevator_C /Engine/Transient.World_0:PersistentLevel.Elevator_C_552
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.21.30:791][ 85]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_1178 에 접근하려 하였으나, TRASH_ArrowComponent_1178 는 킬 대기중입니다.
+	Elevator_C /Engine/Transient.World_1:PersistentLevel.Elevator_C_1
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.21.37:786][920]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190207dc2d8, Size=4
+[2018.07.22-05.21.37:786][920]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018ffedc3a88, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_120:ExecuteUbergraph_Elevator
+[2018.07.22-05.21.37:788][920]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018ffedc2c68, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.21.37:791][920]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_466 에 접근하려 하였으나, TRASH_ArrowComponent_466 는 킬 대기중입니다.
+	Elevator_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Elevator_36947
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.21.37:793][920]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_1178 에 접근하려 하였으나, TRASH_ArrowComponent_1178 는 킬 대기중입니다.
+	Elevator_C /Engine/Transient.World_1:PersistentLevel.Elevator_C_1
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.21.37:794][920]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_1192 에 접근하려 하였으나, TRASH_ArrowComponent_1192 는 킬 대기중입니다.
+	Elevator_C /Engine/Transient.World_0:PersistentLevel.Elevator_C_552
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.21.37:825][920]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_1178 에 접근하려 하였으나, TRASH_ArrowComponent_1178 는 킬 대기중입니다.
+	Elevator_C /Engine/Transient.World_1:PersistentLevel.Elevator_C_1
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.21.42:595][490]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018ffedc2c68, Size=4
+[2018.07.22-05.21.42:595][490]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190207dfc18, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_122:ExecuteUbergraph_Elevator
+[2018.07.22-05.21.42:598][490]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190207ddc90, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.21.42:600][490]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_466 에 접근하려 하였으나, TRASH_ArrowComponent_466 는 킬 대기중입니다.
+	Elevator_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Elevator_36947
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.21.42:602][490]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_1178 에 접근하려 하였으나, TRASH_ArrowComponent_1178 는 킬 대기중입니다.
+	Elevator_C /Engine/Transient.World_1:PersistentLevel.Elevator_C_1
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.21.42:603][490]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_1192 에 접근하려 하였으나, TRASH_ArrowComponent_1192 는 킬 대기중입니다.
+	Elevator_C /Engine/Transient.World_0:PersistentLevel.Elevator_C_552
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.21.42:634][490]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_1178 에 접근하려 하였으나, TRASH_ArrowComponent_1178 는 킬 대기중입니다.
+	Elevator_C /Engine/Transient.World_1:PersistentLevel.Elevator_C_1
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.21.44:163][669]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_1178 에 접근하려 하였으나, TRASH_ArrowComponent_1178 는 킬 대기중입니다.
+	Elevator_C /Engine/Transient.World_1:PersistentLevel.Elevator_C_1
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.21.44:180][671]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_1178 에 접근하려 하였으나, TRASH_ArrowComponent_1178 는 킬 대기중입니다.
+	Elevator_C /Engine/Transient.World_1:PersistentLevel.Elevator_C_1
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.21.44:189][672]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_1178 에 접근하려 하였으나, TRASH_ArrowComponent_1178 는 킬 대기중입니다.
+	Elevator_C /Engine/Transient.World_1:PersistentLevel.Elevator_C_1
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.21.44:199][673]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_1178 에 접근하려 하였으나, TRASH_ArrowComponent_1178 는 킬 대기중입니다.
+	Elevator_C /Engine/Transient.World_1:PersistentLevel.Elevator_C_1
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.21.44:208][674]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_1178 에 접근하려 하였으나, TRASH_ArrowComponent_1178 는 킬 대기중입니다.
+	Elevator_C /Engine/Transient.World_1:PersistentLevel.Elevator_C_1
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.21.44:217][675]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_1178 에 접근하려 하였으나, TRASH_ArrowComponent_1178 는 킬 대기중입니다.
+	Elevator_C /Engine/Transient.World_1:PersistentLevel.Elevator_C_1
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.21.52:470][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.21.57:386][204]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_466 에 접근하려 하였으나, TRASH_ArrowComponent_466 는 킬 대기중입니다.
+	Elevator_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Elevator_36947
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.21.57:388][204]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_1192 에 접근하려 하였으나, TRASH_ArrowComponent_1192 는 킬 대기중입니다.
+	Elevator_C /Engine/Transient.World_0:PersistentLevel.Elevator_C_552
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.21.57:390][204]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_466 에 접근하려 하였으나, TRASH_ArrowComponent_466 는 킬 대기중입니다.
+	Elevator_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Elevator_36947
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.21.57:393][204]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_1192 에 접근하려 하였으나, TRASH_ArrowComponent_1192 는 킬 대기중입니다.
+	Elevator_C /Engine/Transient.World_0:PersistentLevel.Elevator_C_552
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.22.02:163][773]LogEditorTransaction: Undo 스케일 설정
+[2018.07.22-05.22.02:166][773]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_466 에 접근하려 하였으나, TRASH_ArrowComponent_466 는 킬 대기중입니다.
+	Elevator_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Elevator_36947
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.22.04:208][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.22.14:006][168]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-05.22.25:039][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.22.27:533][784]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_466 에 접근하려 하였으나, TRASH_ArrowComponent_466 는 킬 대기중입니다.
+	Elevator_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Elevator_36947
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.22.27:536][784]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_1192 에 접근하려 하였으나, TRASH_ArrowComponent_1192 는 킬 대기중입니다.
+	Elevator_C /Engine/Transient.World_0:PersistentLevel.Elevator_C_552
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.22.27:540][784]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_466 에 접근하려 하였으나, TRASH_ArrowComponent_466 는 킬 대기중입니다.
+	Elevator_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Elevator_36947
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.22.27:543][784]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_1192 에 접근하려 하였으나, TRASH_ArrowComponent_1192 는 킬 대기중입니다.
+	Elevator_C /Engine/Transient.World_0:PersistentLevel.Elevator_C_552
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.22.27:546][784]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_466 에 접근하려 하였으나, TRASH_ArrowComponent_466 는 킬 대기중입니다.
+	Elevator_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Elevator_36947
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.22.27:549][784]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_1192 에 접근하려 하였으나, TRASH_ArrowComponent_1192 는 킬 대기중입니다.
+	Elevator_C /Engine/Transient.World_0:PersistentLevel.Elevator_C_552
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.22.27:552][784]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_466 에 접근하려 하였으나, TRASH_ArrowComponent_466 는 킬 대기중입니다.
+	Elevator_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Elevator_36947
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.22.27:555][784]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_1192 에 접근하려 하였으나, TRASH_ArrowComponent_1192 는 킬 대기중입니다.
+	Elevator_C /Engine/Transient.World_0:PersistentLevel.Elevator_C_552
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.22.27:558][784]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_466 에 접근하려 하였으나, TRASH_ArrowComponent_466 는 킬 대기중입니다.
+	Elevator_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Elevator_36947
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.22.27:560][784]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_1192 에 접근하려 하였으나, TRASH_ArrowComponent_1192 는 킬 대기중입니다.
+	Elevator_C /Engine/Transient.World_0:PersistentLevel.Elevator_C_552
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.22.27:563][784]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_466 에 접근하려 하였으나, TRASH_ArrowComponent_466 는 킬 대기중입니다.
+	Elevator_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Elevator_36947
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.22.27:566][784]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_1192 에 접근하려 하였으나, TRASH_ArrowComponent_1192 는 킬 대기중입니다.
+	Elevator_C /Engine/Transient.World_0:PersistentLevel.Elevator_C_552
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.22.27:569][784]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_466 에 접근하려 하였으나, TRASH_ArrowComponent_466 는 킬 대기중입니다.
+	Elevator_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Elevator_36947
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.22.27:572][784]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_1192 에 접근하려 하였으나, TRASH_ArrowComponent_1192 는 킬 대기중입니다.
+	Elevator_C /Engine/Transient.World_0:PersistentLevel.Elevator_C_552
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.22.27:575][784]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_466 에 접근하려 하였으나, TRASH_ArrowComponent_466 는 킬 대기중입니다.
+	Elevator_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Elevator_36947
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.22.27:578][784]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_1192 에 접근하려 하였으나, TRASH_ArrowComponent_1192 는 킬 대기중입니다.
+	Elevator_C /Engine/Transient.World_0:PersistentLevel.Elevator_C_552
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.22.27:583][784]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_1192 에 접근하려 하였으나, TRASH_ArrowComponent_1192 는 킬 대기중입니다.
+	Elevator_C /Engine/Transient.World_0:PersistentLevel.Elevator_C_552
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.22.27:589][784]LogScript: Warning: Arrow 프로퍼티를 통해 TRASH_ArrowComponent_1192 에 접근하려 하였으나, TRASH_ArrowComponent_1192 는 킬 대기중입니다.
+	Elevator_C /Engine/Transient.World_0:PersistentLevel.Elevator_C_552
+	Function /Game/FirstPersonBP/Elevator.Elevator_C:UserConstructionScript:0251
+[2018.07.22-05.22.51:061][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.23.04:410][147]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190207ddc90, Size=4
+[2018.07.22-05.23.04:410][147]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f8d2d47b0, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_124:ExecuteUbergraph_Elevator
+[2018.07.22-05.23.04:412][147]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f8d2d7778, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.23.05:945][316]LogEditorTransaction: Undo 컴포넌트 붙여넣기
+[2018.07.22-05.23.05:951][316]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f8d2d7778, Size=4
+[2018.07.22-05.23.05:951][316]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190207dd458, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_126:ExecuteUbergraph_Elevator
+[2018.07.22-05.23.05:953][316]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190207dded8, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.23.10:850][855]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshComponent /Engine/Transient.BackWall_GEN_VARIABLE or StaticMeshComponent /Engine/Transient.BackWall_GEN_VARIABLE
+[2018.07.22-05.23.11:557][939]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshComponent /Engine/Transient.BackWall_GEN_VARIABLE or StaticMeshComponent /Engine/Transient.BackWall_GEN_VARIABLE
+[2018.07.22-05.23.11:558][939]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190207dded8, Size=4
+[2018.07.22-05.23.11:558][939]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f8d2d4938, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_128:ExecuteUbergraph_Elevator
+[2018.07.22-05.23.11:560][939]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f8d2d7ec8, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.23.14:316][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.23.23:944][370]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.23.56:332][ 67]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f8d2d7ec8, Size=4
+[2018.07.22-05.23.56:332][ 67]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190206d0488, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_130:ExecuteUbergraph_Elevator
+[2018.07.22-05.23.56:334][ 67]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190206d1ea0, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.23.58:719][341]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.24.06:461][235]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190206d1ea0, Size=4
+[2018.07.22-05.24.06:461][235]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f8d2d7788, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_132:ExecuteUbergraph_Elevator
+[2018.07.22-05.24.06:464][235]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190206d3ca8, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.24.10:216][668]LogEditorTransaction: Undo 컴포넌트 변경
+[2018.07.22-05.24.34:012][384]LogEditorTransaction: Undo 컴포넌트 변경
+[2018.07.22-05.24.35:011][498]LogEditorTransaction: Undo 컴포넌트 변경
+[2018.07.22-05.24.35:338][534]LogEditorTransaction: Undo 컴포넌트 변경
+[2018.07.22-05.24.43:418][443]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.24.54:592][767]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-05.25.32:531][646]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f8d2d47b0, Size=4
+[2018.07.22-05.25.32:531][646]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190207dfc18, Size=4
+[2018.07.22-05.25.32:531][646]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018ffedc3a88, Size=4
+[2018.07.22-05.25.32:531][646]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190207dde10, Size=4
+[2018.07.22-05.25.32:531][646]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019020b78220, Size=4
+[2018.07.22-05.25.32:532][646]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190207dd458, Size=4
+[2018.07.22-05.25.32:532][646]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f8d2d4938, Size=4
+[2018.07.22-05.25.32:532][646]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190206d0488, Size=4
+[2018.07.22-05.25.32:533][646]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f8d2d7788, Size=4
+[2018.07.22-05.25.32:709][646]LogSavePackage: Save=146.24ms
+[2018.07.22-05.25.32:709][646]LogSavePackage: Moving '../../../../../../Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Saved/FirstPersonExampleMap_Auto2AAA2BAFC4E35C1B6E546D09D21432278.tmp' to '../../../../../../Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2018.07.22-05.25.32:710][646]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap
+[2018.07.22-05.25.32:712][646]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.215
+[2018.07.22-05.25.32:712][646]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.215
+[2018.07.22-05.25.32:715][646]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Elevator] ([1] browsable assets)...
+[2018.07.22-05.25.32:727][646]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Elevator.Elevator]
+[2018.07.22-05.25.32:727][646]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Elevator]
+[2018.07.22-05.25.32:776][646]LogSavePackage: Save=40.78ms
+[2018.07.22-05.25.32:776][646]LogSavePackage: Moving '../../../../../../Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Saved/Elevator_Auto2B6E48C0D4941C7AEE7E8448441660563.tmp' to '../../../../../../Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Saved/Autosaves/Game/FirstPersonBP/Elevator_Auto2.uasset'
+[2018.07.22-05.25.32:777][646]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Saved/Autosaves/Game/FirstPersonBP/Elevator_Auto2.uasset
+[2018.07.22-05.25.32:777][646]LogFileHelpers: Auto-saving content packages took 0.064
+[2018.07.22-05.26.05:054][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.26.08:674][308]LogEditorTransaction: Undo 위치 설정
+[2018.07.22-05.26.17:475][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.26.17:550][348]Cmd: MODE GRID=0
+[2018.07.22-05.26.19:350][558]Cmd: MODE GRID=1
+[2018.07.22-05.26.21:370][795]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.26.21:420][801]Cmd: MODE GRID=0
+[2018.07.22-05.26.23:753][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.26.23:811][ 78]Cmd: MODE GRID=1
+[2018.07.22-05.26.39:567][935]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190206d3ca8, Size=4
+[2018.07.22-05.26.39:567][935]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190207de888, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_138:ExecuteUbergraph_Elevator
+[2018.07.22-05.26.39:569][935]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190207df730, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.26.55:867][856]LogEditorTransaction: Undo 컴포넌트 변경
+[2018.07.22-05.26.56:271][881]LogEditorTransaction: Undo 컴포넌트 붙여넣기
+[2018.07.22-05.26.56:278][881]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190207df730, Size=4
+[2018.07.22-05.26.56:278][881]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018ffedc3110, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_140:ExecuteUbergraph_Elevator
+[2018.07.22-05.26.56:280][881]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018ffedc2178, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.26.56:679][918]LogEditorTransaction: Undo 컴포넌트 변경
+[2018.07.22-05.26.57:218][978]LogEditorTransaction: Undo 컴포넌트 변경
+[2018.07.22-05.26.57:544][ 14]LogEditorTransaction: Undo 컴포넌트 변경
+[2018.07.22-05.26.58:254][ 96]LogEditorTransaction: Undo 컴포넌트 변경
+[2018.07.22-05.26.58:830][162]LogEditorTransaction: Undo 컴포넌트 변경
+[2018.07.22-05.26.59:134][196]LogEditorTransaction: Undo 컴포넌트 변경
+[2018.07.22-05.26.59:528][240]LogEditorTransaction: Undo 컴포넌트 변경
+[2018.07.22-05.26.59:896][281]LogEditorTransaction: Undo 컴포넌트 변경
+[2018.07.22-05.27.00:273][323]LogEditorTransaction: Undo 컴포넌트 변경
+[2018.07.22-05.27.00:536][351]LogEditorTransaction: Undo 컴포넌트 변경
+[2018.07.22-05.27.01:035][407]LogEditorTransaction: Undo 스케일 설정
+[2018.07.22-05.27.02:877][624]LogEditorTransaction: Redo 스케일 설정
+[2018.07.22-05.28.07:705][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.28.12:623][711]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshComponent /Engine/Transient.StaticMesh_GEN_VARIABLE or StaticMeshComponent /Engine/Transient.StaticMesh_GEN_VARIABLE
+[2018.07.22-05.28.12:915][744]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshComponent /Engine/Transient.StaticMesh_GEN_VARIABLE or StaticMeshComponent /Engine/Transient.StaticMesh_GEN_VARIABLE
+[2018.07.22-05.28.12:917][744]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018ffedc2178, Size=4
+[2018.07.22-05.28.12:917][744]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018ffedc2178, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_142:ExecuteUbergraph_Elevator
+[2018.07.22-05.28.12:919][744]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018ffedc1620, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.28.14:168][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.28.25:782][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.28.29:712][715]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018ffedc1620, Size=4
+[2018.07.22-05.28.29:712][715]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190207deaf8, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_144:ExecuteUbergraph_Elevator
+[2018.07.22-05.28.29:714][715]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190207dd460, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.28.33:403][142]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190207dd460, Size=4
+[2018.07.22-05.28.33:403][142]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018ffedc0848, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_146:ExecuteUbergraph_Elevator
+[2018.07.22-05.28.33:405][142]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018ffedc3a70, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.28.57:471][941]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.29.03:882][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.29.08:340][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.29.13:826][846]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018ffedc3a70, Size=4
+[2018.07.22-05.29.13:826][846]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190206d1e38, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_148:ExecuteUbergraph_Elevator
+[2018.07.22-05.29.13:829][846]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190206d2570, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.29.34:679][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.29.38:218][611]LogEditorViewport: Clicking on Actor (LMB): Elevator_C (Elevator)
+[2018.07.22-05.29.44:040][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.29.54:745][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.30.04:268][646]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.30.13:608][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.30.40:149][871]BlueprintLog: New page: Elevator 컴파일
+[2018.07.22-05.30.40:158][871]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190206d2570, Size=4
+[2018.07.22-05.30.40:158][871]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f8d2d4c60, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_150:ExecuteUbergraph_Elevator
+[2018.07.22-05.30.40:170][871]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019020525d50, Size=80
+[2018.07.22-05.30.40:170][871]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020527d80, Size=80, Default__Elevator_C Function /Engine/Transient.REINST_Elevator_C_154:ExecuteUbergraph_Elevator
+[2018.07.22-05.30.40:176][871]LogUObjectGlobals: Created PersistentFrame Addr=0x000001902177a110, Size=80, Default__Elevator_C Function /Game/FirstPersonBP/Elevator.Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.30.40:565][871]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190207de888, Size=4
+[2018.07.22-05.30.40:566][871]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f8d2d4c60, Size=4
+[2018.07.22-05.30.40:566][871]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190206d1e38, Size=4
+[2018.07.22-05.30.40:566][871]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018ffedc0848, Size=4
+[2018.07.22-05.30.40:566][871]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190207deaf8, Size=4
+[2018.07.22-05.30.40:567][871]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018ffedc2178, Size=4
+[2018.07.22-05.30.40:567][871]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018ffedc3110, Size=4
+[2018.07.22-05.30.41:043][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Elevator" FILE="../../../../../../Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Content/FirstPersonBP/Elevator.uasset" SILENT=true
+[2018.07.22-05.30.41:095][911]LogSavePackage: Save=41.42ms
+[2018.07.22-05.30.41:095][911]LogSavePackage: Moving '../../../../../../Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Saved/Elevator32E27B2D4D46B9613882079E885C69CD.tmp' to '../../../../../../Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Content/FirstPersonBP/Elevator.uasset'
+[2018.07.22-05.30.41:100][911]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Content/FirstPersonBP/Elevator.uasset
+[2018.07.22-05.30.51:748][146]BlueprintLog: New page: Elevator 컴파일
+[2018.07.22-05.30.51:769][146]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001902177a110, Size=80
+[2018.07.22-05.30.51:769][146]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020e8fd80, Size=80, Elevator_C_17381 Function /Engine/Transient.REINST_Elevator_C_160:ExecuteUbergraph_Elevator
+[2018.07.22-05.30.51:773][146]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019021725530, Size=80, Default__Elevator_C Function /Game/FirstPersonBP/Elevator.Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.30.54:567][418]LogEditorViewport: Clicking on Actor (LMB): Elevator_C (Elevator)
+[2018.07.22-05.30.55:444][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.31.00:062][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.07.22-05.31.02:275][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.31.02:334][289]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.07.22-05.31.02:361][289]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.22-05.31.02:362][289]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.22-05.31.02:362][289]PIE: New page: PIE 세션: FirstPersonExampleMap (2018. 7. 22. 오후 11:31:02)
+[2018.07.22-05.31.02:362][289]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.07.22-05.31.02:377][289]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014691s)
+[2018.07.22-05.31.02:377][289]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.07.22-05.31.02:378][289]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2018.07.22-05.31.02:378][289]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.015796s)
+[2018.07.22-05.31.02:405][289]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.22-05.31.02:414][289]LogInit: FAudioDevice initialized.
+[2018.07.22-05.31.02:446][289]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.07.22-05.31.02:448][289]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.07.22-14.31.02
+[2018.07.22-05.31.02:449][289]LogWorld: Bringing up level for play took: 0.001704
+[2018.07.22-05.31.02:450][289]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.525
+[2018.07.22-05.31.02:450][289]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.22-05.31.10:091][200]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.22-05.31.10:127][200]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.22-05.31.11:274][332]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.31.33:608][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.32.00:640][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.32.53:627][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.33.48:341][692]BlueprintLog: New page: Elevator 컴파일
+[2018.07.22-05.33.48:364][692]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019021725530, Size=80
+[2018.07.22-05.33.48:364][692]LogUObjectGlobals: Created PersistentFrame Addr=0x000001901f5886d0, Size=80, Elevator_C_17468 Function /Engine/Transient.REINST_Elevator_C_166:ExecuteUbergraph_Elevator
+[2018.07.22-05.33.48:370][692]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f82929a60, Size=104, Default__Elevator_C Function /Game/FirstPersonBP/Elevator.Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.33.50:061][850]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.07.22-05.33.50:086][850]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.22-05.33.50:086][850]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.22-05.33.50:086][850]PIE: New page: PIE 세션: FirstPersonExampleMap (2018. 7. 22. 오후 11:33:50)
+[2018.07.22-05.33.50:086][850]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.07.22-05.33.50:101][850]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014871s)
+[2018.07.22-05.33.50:102][850]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.07.22-05.33.50:102][850]LogPlayLevel: PIE: World Init took: (0.000902s)
+[2018.07.22-05.33.50:102][850]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.015940s)
+[2018.07.22-05.33.50:124][850]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001901f5886d0, Size=80
+[2018.07.22-05.33.50:143][850]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.22-05.33.50:152][850]LogInit: FAudioDevice initialized.
+[2018.07.22-05.33.50:185][850]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.07.22-05.33.50:187][850]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.07.22-14.33.50
+[2018.07.22-05.33.50:187][850]LogWorld: Bringing up level for play took: 0.001621
+[2018.07.22-05.33.50:202][850]LogBlueprintUserMessages: [Elevator_36947] X=3.500 Y=3.500 Z=0.035
+[2018.07.22-05.33.50:202][850]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.277
+[2018.07.22-05.33.50:202][850]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.22-05.33.55:816][519]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.22-05.33.55:852][519]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.22-05.33.56:275][564]LogEditorViewport: Clicking on Actor (LMB): Elevator_C (Elevator)
+[2018.07.22-05.34.01:473][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.34.09:690][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.34.18:663][201]BlueprintLog: New page: Elevator 컴파일
+[2018.07.22-05.34.18:684][201]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f82929a60, Size=104
+[2018.07.22-05.34.18:684][201]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f84aeff20, Size=104, Elevator_C_17538 Function /Engine/Transient.REINST_Elevator_C_172:ExecuteUbergraph_Elevator
+[2018.07.22-05.34.18:689][201]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190217266b0, Size=80, Default__Elevator_C Function /Game/FirstPersonBP/Elevator.Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.36.33:189][477]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020c54db8, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.38.22:490][303]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f84aeff20, Size=104
+[2018.07.22-05.38.22:643][303]LogSavePackage: Save=136.90ms
+[2018.07.22-05.38.22:643][303]LogSavePackage: Moving '../../../../../../Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Saved/FirstPersonExampleMap_Auto3EA641E76439A1BEEF4BBD0AB592CB14F.tmp' to '../../../../../../Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2018.07.22-05.38.22:644][303]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap
+[2018.07.22-05.38.22:646][303]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.176
+[2018.07.22-05.38.22:646][303]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.176
+[2018.07.22-05.38.22:648][303]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Elevator] ([1] browsable assets)...
+[2018.07.22-05.38.22:660][303]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Elevator.Elevator]
+[2018.07.22-05.38.22:660][303]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Elevator]
+[2018.07.22-05.38.22:713][303]LogSavePackage: Save=44.14ms
+[2018.07.22-05.38.22:713][303]LogSavePackage: Moving '../../../../../../Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Saved/Elevator_Auto3494B93AE4ECC7E119B8AAB83AA9D0B63.tmp' to '../../../../../../Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Saved/Autosaves/Game/FirstPersonBP/Elevator_Auto3.uasset'
+[2018.07.22-05.38.22:714][303]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Saved/Autosaves/Game/FirstPersonBP/Elevator_Auto3.uasset
+[2018.07.22-05.38.22:714][303]LogFileHelpers: Auto-saving content packages took 0.067
+[2018.07.22-05.41.22:203][610]BlueprintLog: New page: Elevator 컴파일
+[2018.07.22-05.41.22:213][610]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019020c54db8, Size=4
+[2018.07.22-05.41.22:213][610]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019021549de8, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_180:ExecuteUbergraph_Elevator
+[2018.07.22-05.41.22:228][610]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190217266b0, Size=80
+[2018.07.22-05.41.22:228][610]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190210f48b0, Size=80, Elevator_C_17676 Function /Engine/Transient.REINST_Elevator_C_184:ExecuteUbergraph_Elevator
+[2018.07.22-05.41.22:234][610]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020804770, Size=80, Default__Elevator_C Function /Game/FirstPersonBP/Elevator.Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.41.22:552][610]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019021549de8, Size=4
+[2018.07.22-05.41.31:080][591]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.41.35:169][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.41.35:543][115]BlueprintLog: New page: Elevator 컴파일
+[2018.07.22-05.41.35:568][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019020804770, Size=80
+[2018.07.22-05.41.35:568][115]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020d074c0, Size=80, Elevator_C_17754 Function /Engine/Transient.REINST_Elevator_C_190:ExecuteUbergraph_Elevator
+[2018.07.22-05.41.35:573][115]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019021a849a0, Size=80, Default__Elevator_C Function /Game/FirstPersonBP/Elevator.Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.41.35:893][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190210f48b0, Size=80
+[2018.07.22-05.41.42:619][875]Cmd: TRANSACTION UNDO
+[2018.07.22-05.41.42:619][875]LogEditorTransaction: Undo 액터 이동
+[2018.07.22-05.41.46:711][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.41.52:199][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.41.57:584][583]BlueprintLog: New page: Elevator 컴파일
+[2018.07.22-05.41.57:608][583]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019021a849a0, Size=80
+[2018.07.22-05.41.57:608][583]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190210f65c0, Size=80, Elevator_C_17832 Function /Engine/Transient.REINST_Elevator_C_196:ExecuteUbergraph_Elevator
+[2018.07.22-05.41.57:614][583]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f985c5d00, Size=80, Default__Elevator_C Function /Game/FirstPersonBP/Elevator.Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.41.57:937][583]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019020d074c0, Size=80
+[2018.07.22-05.42.01:909][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.42.06:867][617]BlueprintLog: New page: Elevator 컴파일
+[2018.07.22-05.42.06:891][617]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f985c5d00, Size=80
+[2018.07.22-05.42.06:891][617]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020049ee0, Size=80, Elevator_C_17910 Function /Engine/Transient.REINST_Elevator_C_202:ExecuteUbergraph_Elevator
+[2018.07.22-05.42.06:896][617]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190207c12b0, Size=80, Default__Elevator_C Function /Game/FirstPersonBP/Elevator.Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.42.07:216][617]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190210f65c0, Size=80
+[2018.07.22-05.42.10:595][978]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.43.08:985][892]BlueprintLog: New page: Elevator 컴파일
+[2018.07.22-05.43.09:010][892]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190207c12b0, Size=80
+[2018.07.22-05.43.09:010][892]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019046da0950, Size=80, Elevator_C_17988 Function /Engine/Transient.REINST_Elevator_C_208:ExecuteUbergraph_Elevator
+[2018.07.22-05.43.09:016][892]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190210f6b10, Size=80, Default__Elevator_C Function /Game/FirstPersonBP/Elevator.Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.43.09:359][892]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019020049ee0, Size=80
+[2018.07.22-05.43.20:589][178]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.43.30:235][330]BlueprintLog: New page: Elevator 컴파일
+[2018.07.22-05.43.30:260][330]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190210f6b10, Size=80
+[2018.07.22-05.43.30:260][330]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f985c58f0, Size=80, Elevator_C_18066 Function /Engine/Transient.REINST_Elevator_C_214:ExecuteUbergraph_Elevator
+[2018.07.22-05.43.30:265][330]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020d2e700, Size=80, Default__Elevator_C Function /Game/FirstPersonBP/Elevator.Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.43.30:585][330]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019046da0950, Size=80
+[2018.07.22-05.43.32:854][574]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.43.37:819][165]BlueprintLog: New page: Elevator 컴파일
+[2018.07.22-05.43.37:844][165]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019020d2e700, Size=80
+[2018.07.22-05.43.37:845][165]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020fe18a0, Size=80, Elevator_C_18144 Function /Engine/Transient.REINST_Elevator_C_220:ExecuteUbergraph_Elevator
+[2018.07.22-05.43.37:850][165]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020b551c0, Size=80, Default__Elevator_C Function /Game/FirstPersonBP/Elevator.Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.43.38:170][165]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f985c58f0, Size=80
+[2018.07.22-05.44.11:023][987]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.44.14:133][356]BlueprintLog: New page: Elevator 컴파일
+[2018.07.22-05.44.14:159][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019020b551c0, Size=80
+[2018.07.22-05.44.14:159][356]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190211ec9a0, Size=80, Elevator_C_18222 Function /Engine/Transient.REINST_Elevator_C_226:ExecuteUbergraph_Elevator
+[2018.07.22-05.44.14:164][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018fd3de9e90, Size=80, Default__Elevator_C Function /Game/FirstPersonBP/Elevator.Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.44.14:488][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019020fe18a0, Size=80
+[2018.07.22-05.44.18:992][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.44.21:593][174]BlueprintLog: New page: Elevator 컴파일
+[2018.07.22-05.44.21:619][174]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018fd3de9e90, Size=80
+[2018.07.22-05.44.21:619][174]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190212d0900, Size=80, Elevator_C_18300 Function /Engine/Transient.REINST_Elevator_C_232:ExecuteUbergraph_Elevator
+[2018.07.22-05.44.21:625][174]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020d2e700, Size=80, Default__Elevator_C Function /Game/FirstPersonBP/Elevator.Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.44.21:947][174]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190211ec9a0, Size=80
+[2018.07.22-05.44.23:907][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.44.28:781][967]BlueprintLog: New page: Elevator 컴파일
+[2018.07.22-05.44.28:806][967]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019020d2e700, Size=80
+[2018.07.22-05.44.28:806][967]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018fd3de8540, Size=80, Elevator_C_18378 Function /Engine/Transient.REINST_Elevator_C_238:ExecuteUbergraph_Elevator
+[2018.07.22-05.44.28:811][967]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019046da11c0, Size=80, Default__Elevator_C Function /Game/FirstPersonBP/Elevator.Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.44.29:134][967]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190212d0900, Size=80
+[2018.07.22-05.44.31:413][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.44.37:044][872]BlueprintLog: New page: Elevator 컴파일
+[2018.07.22-05.44.37:069][872]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019046da11c0, Size=80
+[2018.07.22-05.44.37:069][872]LogUObjectGlobals: Created PersistentFrame Addr=0x000001901f4ac950, Size=80, Elevator_C_18456 Function /Engine/Transient.REINST_Elevator_C_244:ExecuteUbergraph_Elevator
+[2018.07.22-05.44.37:074][872]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f8d1523e0, Size=80, Default__Elevator_C Function /Game/FirstPersonBP/Elevator.Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.44.37:396][872]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018fd3de8540, Size=80
+[2018.07.22-05.44.44:633][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.44.48:244][133]BlueprintLog: New page: Elevator 컴파일
+[2018.07.22-05.44.48:269][133]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f8d1523e0, Size=80
+[2018.07.22-05.44.48:269][133]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190209bbf60, Size=80, Elevator_C_18534 Function /Engine/Transient.REINST_Elevator_C_250:ExecuteUbergraph_Elevator
+[2018.07.22-05.44.48:275][133]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020d2fc90, Size=80, Default__Elevator_C Function /Game/FirstPersonBP/Elevator.Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.44.48:594][133]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001901f4ac950, Size=80
+[2018.07.22-05.44.52:780][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.44.55:393][898]BlueprintLog: New page: Elevator 컴파일
+[2018.07.22-05.44.55:417][898]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019020d2fc90, Size=80
+[2018.07.22-05.44.55:417][898]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019021213ec0, Size=80, Elevator_C_18612 Function /Engine/Transient.REINST_Elevator_C_256:ExecuteUbergraph_Elevator
+[2018.07.22-05.44.55:423][898]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f8d1536a0, Size=80, Default__Elevator_C Function /Game/FirstPersonBP/Elevator.Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.44.55:746][898]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190209bbf60, Size=80
+[2018.07.22-05.45.05:363][989]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.45.21:100][854]BlueprintLog: New page: Elevator 컴파일
+[2018.07.22-05.45.21:125][854]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f8d1536a0, Size=80
+[2018.07.22-05.45.21:125][854]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f8d153880, Size=80, Elevator_C_18690 Function /Engine/Transient.REINST_Elevator_C_262:ExecuteUbergraph_Elevator
+[2018.07.22-05.45.21:131][854]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190211ed530, Size=80, Default__Elevator_C Function /Game/FirstPersonBP/Elevator.Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.45.21:451][854]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019021213ec0, Size=80
+[2018.07.22-05.45.26:973][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.45.30:100][813]BlueprintLog: New page: Elevator 컴파일
+[2018.07.22-05.45.30:125][813]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190211ed530, Size=80
+[2018.07.22-05.45.30:125][813]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020ad91c0, Size=80, Elevator_C_18768 Function /Engine/Transient.REINST_Elevator_C_268:ExecuteUbergraph_Elevator
+[2018.07.22-05.45.30:131][813]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020fe3ec0, Size=80, Default__Elevator_C Function /Game/FirstPersonBP/Elevator.Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.45.30:451][813]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f8d153880, Size=80
+[2018.07.22-05.45.36:738][531]LogEditorViewport: Clicking on Actor (context menu): Elevator_C (Elevator)
+[2018.07.22-05.45.36:818][531]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-05.45.45:549][538]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.45.46:040][597]BlueprintLog: New page: Elevator 컴파일
+[2018.07.22-05.45.46:065][597]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019020fe3ec0, Size=80
+[2018.07.22-05.45.46:066][597]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020c00450, Size=80, Elevator_C_18846 Function /Engine/Transient.REINST_Elevator_C_274:ExecuteUbergraph_Elevator
+[2018.07.22-05.45.46:071][597]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190208d5ad0, Size=80, Default__Elevator_C Function /Game/FirstPersonBP/Elevator.Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.45.46:393][597]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019020ad91c0, Size=80
+[2018.07.22-05.45.51:847][234]BlueprintLog: New page: Elevator 컴파일
+[2018.07.22-05.45.51:872][234]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190208d5ad0, Size=80
+[2018.07.22-05.45.51:872][234]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020d2e7a0, Size=80, Elevator_C_18924 Function /Engine/Transient.REINST_Elevator_C_280:ExecuteUbergraph_Elevator
+[2018.07.22-05.45.51:877][234]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020983d30, Size=80, Default__Elevator_C Function /Game/FirstPersonBP/Elevator.Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.45.52:200][234]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019020c00450, Size=80
+[2018.07.22-05.45.56:032][669]BlueprintLog: New page: Elevator 컴파일
+[2018.07.22-05.45.56:057][669]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019020983d30, Size=80
+[2018.07.22-05.45.56:057][669]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018ffe4a85e0, Size=80, Elevator_C_19002 Function /Engine/Transient.REINST_Elevator_C_286:ExecuteUbergraph_Elevator
+[2018.07.22-05.45.56:062][669]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020906a20, Size=80, Default__Elevator_C Function /Game/FirstPersonBP/Elevator.Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.45.56:384][669]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019020d2e7a0, Size=80
+[2018.07.22-05.46.04:211][555]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.46.09:941][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.46.42:956][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.46.48:136][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.46.49:630][777]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.07.22-05.46.49:663][777]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.22-05.46.49:663][777]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.07.22-05.46.49:677][777]LogPlayLevel: [PlayLevel] Compiling Elevator before play...
+[2018.07.22-05.46.49:687][777]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019020906a20, Size=80
+[2018.07.22-05.46.49:688][777]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190204a5210, Size=80, Elevator_C_19365 Function /Engine/Transient.REINST_Elevator_C_292:ExecuteUbergraph_Elevator
+[2018.07.22-05.46.49:693][777]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190212d0860, Size=80, Default__Elevator_C Function /Game/FirstPersonBP/Elevator.Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.46.50:047][777]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018ffe4a85e0, Size=80
+[2018.07.22-05.46.50:047][777]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190204a5210, Size=80
+[2018.07.22-05.46.50:050][777]LogPlayLevel: PlayLevel: Blueprint regeneration took 386 ms (1 blueprints)
+[2018.07.22-05.46.50:050][777]PIE: New page: PIE 세션: FirstPersonExampleMap (2018. 7. 22. 오후 11:46:50)
+[2018.07.22-05.46.50:050][777]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.07.22-05.46.50:067][777]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017091s)
+[2018.07.22-05.46.50:068][777]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.07.22-05.46.50:068][777]LogPlayLevel: PIE: World Init took: (0.000942s)
+[2018.07.22-05.46.50:068][777]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.018216s)
+[2018.07.22-05.46.50:098][777]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.22-05.46.50:107][777]LogInit: FAudioDevice initialized.
+[2018.07.22-05.46.50:143][777]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.07.22-05.46.50:145][777]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.07.22-14.46.50
+[2018.07.22-05.46.50:146][777]LogWorld: Bringing up level for play took: 0.001770
+[2018.07.22-05.46.50:147][777]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.222
+[2018.07.22-05.46.50:147][777]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.22-05.46.56:524][539]LogBlueprintUserMessages: [Elevator_36947] i
+[2018.07.22-05.46.56:941][589]LogBlueprintUserMessages: [Elevator_36947] i
+[2018.07.22-05.46.57:308][633]LogBlueprintUserMessages: [Elevator_36947] i
+[2018.07.22-05.46.57:433][648]LogBlueprintUserMessages: [Elevator_36947] i
+[2018.07.22-05.46.57:575][665]LogBlueprintUserMessages: [Elevator_36947] i
+[2018.07.22-05.46.57:716][682]LogBlueprintUserMessages: [Elevator_36947] i
+[2018.07.22-05.46.57:841][697]LogBlueprintUserMessages: [Elevator_36947] i
+[2018.07.22-05.46.58:559][783]LogBlueprintUserMessages: [Elevator_36947] d
+[2018.07.22-05.46.58:734][804]LogBlueprintUserMessages: [Elevator_36947] d
+[2018.07.22-05.46.58:875][821]LogBlueprintUserMessages: [Elevator_36947] d
+[2018.07.22-05.46.59:034][840]LogBlueprintUserMessages: [Elevator_36947] d
+[2018.07.22-05.47.00:067][964]LogBlueprintUserMessages: [Elevator_36947] d
+[2018.07.22-05.47.00:209][981]LogBlueprintUserMessages: [Elevator_36947] d
+[2018.07.22-05.47.00:367][  0]LogBlueprintUserMessages: [Elevator_36947] d
+[2018.07.22-05.47.00:517][ 18]LogBlueprintUserMessages: [Elevator_36947] d
+[2018.07.22-05.47.00:943][ 69]LogBlueprintUserMessages: [Elevator_36947] d
+[2018.07.22-05.47.01:077][ 85]LogBlueprintUserMessages: [Elevator_36947] d
+[2018.07.22-05.47.01:218][102]LogBlueprintUserMessages: [Elevator_36947] d
+[2018.07.22-05.47.01:794][171]LogBlueprintUserMessages: [Elevator_36947] d
+[2018.07.22-05.47.05:205][580]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.22-05.47.05:238][580]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.22-05.47.05:909][654]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.47.11:557][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.47.25:445][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.47.32:742][751]BlueprintLog: New page: Elevator 컴파일
+[2018.07.22-05.47.32:768][751]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190212d0860, Size=80
+[2018.07.22-05.47.32:768][751]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020c880e0, Size=80, Elevator_C_19747 Function /Engine/Transient.REINST_Elevator_C_298:ExecuteUbergraph_Elevator
+[2018.07.22-05.47.32:774][751]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190215f7560, Size=80, Default__Elevator_C Function /Game/FirstPersonBP/Elevator.Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.47.36:798][155]BlueprintLog: New page: Elevator 컴파일
+[2018.07.22-05.47.36:823][155]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190215f7560, Size=80
+[2018.07.22-05.47.36:823][155]LogUObjectGlobals: Created PersistentFrame Addr=0x000001901f4af560, Size=80, Elevator_C_19844 Function /Engine/Transient.REINST_Elevator_C_304:ExecuteUbergraph_Elevator
+[2018.07.22-05.47.36:828][155]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020f74ae0, Size=80, Default__Elevator_C Function /Game/FirstPersonBP/Elevator.Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.47.37:146][155]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019020c880e0, Size=80
+[2018.07.22-05.47.40:770][560]BlueprintLog: New page: Elevator 컴파일
+[2018.07.22-05.47.40:794][560]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019020f74ae0, Size=80
+[2018.07.22-05.47.40:794][560]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020e28fe0, Size=80, Elevator_C_19922 Function /Engine/Transient.REINST_Elevator_C_310:ExecuteUbergraph_Elevator
+[2018.07.22-05.47.40:800][560]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019029bd5b20, Size=80, Default__Elevator_C Function /Game/FirstPersonBP/Elevator.Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.47.48:027][356]BlueprintLog: New page: Elevator 컴파일
+[2018.07.22-05.47.48:051][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019029bd5b20, Size=80
+[2018.07.22-05.47.48:051][356]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020e2a660, Size=80, Elevator_C_20000 Function /Engine/Transient.REINST_Elevator_C_316:ExecuteUbergraph_Elevator
+[2018.07.22-05.47.48:056][356]LogUObjectGlobals: Created PersistentFrame Addr=0x000001902115ea70, Size=80, Default__Elevator_C Function /Game/FirstPersonBP/Elevator.Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.47.48:371][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019020e28fe0, Size=80
+[2018.07.22-05.47.51:891][747]BlueprintLog: New page: Elevator 컴파일
+[2018.07.22-05.47.51:916][747]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001902115ea70, Size=80
+[2018.07.22-05.47.51:916][747]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190211d12b0, Size=80, Elevator_C_20078 Function /Engine/Transient.REINST_Elevator_C_322:ExecuteUbergraph_Elevator
+[2018.07.22-05.47.51:921][747]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018fd3de8e50, Size=80, Default__Elevator_C Function /Game/FirstPersonBP/Elevator.Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.47.52:239][747]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019020e2a660, Size=80
+[2018.07.22-05.47.55:712][132]BlueprintLog: New page: Elevator 컴파일
+[2018.07.22-05.47.55:736][132]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018fd3de8e50, Size=80
+[2018.07.22-05.47.55:736][132]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020cadb70, Size=80, Elevator_C_20156 Function /Engine/Transient.REINST_Elevator_C_328:ExecuteUbergraph_Elevator
+[2018.07.22-05.47.55:741][132]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190216e3290, Size=80, Default__Elevator_C Function /Game/FirstPersonBP/Elevator.Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.47.56:058][132]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190211d12b0, Size=80
+[2018.07.22-05.48.00:468][626]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.48.41:619][542]LogEditorViewport: Clicking on Actor (context menu): Elevator_C (Elevator)
+[2018.07.22-05.48.41:664][542]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-05.48.45:842][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.48.45:977][999]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019020cadb70, Size=80
+[2018.07.22-05.48.46:120][999]LogSavePackage: Save=126.23ms
+[2018.07.22-05.48.46:120][999]LogSavePackage: Moving '../../../../../../Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Saved/FirstPersonExampleMap_Auto4F90A97544B89AAB5E71B26917FCDCCF4.tmp' to '../../../../../../Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap'
+[2018.07.22-05.48.46:121][999]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap
+[2018.07.22-05.48.46:123][999]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.164
+[2018.07.22-05.48.46:124][999]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.164
+[2018.07.22-05.48.46:126][999]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Elevator] ([1] browsable assets)...
+[2018.07.22-05.48.46:140][999]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Elevator.Elevator]
+[2018.07.22-05.48.46:140][999]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Elevator]
+[2018.07.22-05.48.46:199][999]LogSavePackage: Save=49.63ms
+[2018.07.22-05.48.46:199][999]LogSavePackage: Moving '../../../../../../Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Saved/Elevator_Auto4D783EBD34FA7534BBCF7179DB2E532BF.tmp' to '../../../../../../Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Saved/Autosaves/Game/FirstPersonBP/Elevator_Auto4.uasset'
+[2018.07.22-05.48.46:200][999]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Saved/Autosaves/Game/FirstPersonBP/Elevator_Auto4.uasset
+[2018.07.22-05.48.46:200][999]LogFileHelpers: Auto-saving content packages took 0.074
+[2018.07.22-05.48.48:497][264]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.48.50:043][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Elevator" FILE="../../../../../../Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Content/FirstPersonBP/Elevator.uasset" SILENT=true
+[2018.07.22-05.48.50:090][429]LogSavePackage: Save=42.07ms
+[2018.07.22-05.48.50:090][429]LogSavePackage: Moving '../../../../../../Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Saved/Elevator279B118B4BBFE5AAB49C738120F88D81.tmp' to '../../../../../../Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Content/FirstPersonBP/Elevator.uasset'
+[2018.07.22-05.48.50:095][429]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yeshj/Documents/Unreal Projects/Elevator_Upgraded/Content/FirstPersonBP/Elevator.uasset
+[2018.07.22-05.50.36:864][833]LogEditorTransaction: Undo 노드 추가
+[2018.07.22-05.50.36:869][833]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018ffeff7a90, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.52.46:562][790]BlueprintLog: New page: Elevator 컴파일
+[2018.07.22-05.52.46:574][790]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018ffeff7a90, Size=4
+[2018.07.22-05.52.46:574][790]LogUObjectGlobals: Created PersistentFrame Addr=0x000001902127ed20, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_336:ExecuteUbergraph_Elevator
+[2018.07.22-05.52.46:591][790]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190216e3290, Size=80
+[2018.07.22-05.52.46:591][790]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020e2a390, Size=80, Elevator_C_20291 Function /Engine/Transient.REINST_Elevator_C_340:ExecuteUbergraph_Elevator
+[2018.07.22-05.52.46:598][790]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019043abe020, Size=80, Default__Elevator_C Function /Game/FirstPersonBP/Elevator.Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.52.46:952][790]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001902127ed20, Size=4
+[2018.07.22-05.52.54:552][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-05.54.56:271][781]LogEditorTransaction: Undo 노드 이동
+[2018.07.22-05.54.56:275][781]LogUObjectGlobals: Created PersistentFrame Addr=0x000001902041c738, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.54.56:478][792]LogEditorTransaction: Undo 핀 링크 생성
+[2018.07.22-05.54.56:479][792]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001902041c738, Size=4
+[2018.07.22-05.54.56:479][792]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020b78d30, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_344:ExecuteUbergraph_Elevator
+[2018.07.22-05.54.56:482][792]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020b7b9e8, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.54.56:657][799]LogEditorTransaction: Undo 핀 링크 생성
+[2018.07.22-05.54.56:658][799]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019020b7b9e8, Size=4
+[2018.07.22-05.54.56:658][799]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020b7b9e8, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_346:ExecuteUbergraph_Elevator
+[2018.07.22-05.54.56:661][799]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020b78390, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.54.56:827][808]LogEditorTransaction: Undo 벡터 핀 값 변경
+[2018.07.22-05.54.56:828][808]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019020b78390, Size=4
+[2018.07.22-05.54.56:828][808]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020b78390, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_348:ExecuteUbergraph_Elevator
+[2018.07.22-05.54.56:831][808]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020b7a438, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.54.57:021][820]LogEditorTransaction: Undo 벡터 핀 값 변경
+[2018.07.22-05.54.57:022][820]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019020b7a438, Size=4
+[2018.07.22-05.54.57:022][820]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020b7a438, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_350:ExecuteUbergraph_Elevator
+[2018.07.22-05.54.57:025][820]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020b7b218, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.54.57:192][830]LogEditorTransaction: Undo 벡터 핀 값 변경
+[2018.07.22-05.54.57:193][830]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019020b7b218, Size=4
+[2018.07.22-05.54.57:193][830]LogUObjectGlobals: Created PersistentFrame Addr=0x000001902041e1b8, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_352:ExecuteUbergraph_Elevator
+[2018.07.22-05.54.57:196][830]LogUObjectGlobals: Created PersistentFrame Addr=0x000001902041c0b0, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.54.57:379][842]LogEditorTransaction: Undo 넘버 핀 값 변경
+[2018.07.22-05.54.57:380][842]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001902041c0b0, Size=4
+[2018.07.22-05.54.57:380][842]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020b7b160, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_354:ExecuteUbergraph_Elevator
+[2018.07.22-05.54.57:382][842]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020b7a328, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.54.57:551][852]LogEditorTransaction: Undo 구조체 핀 분할
+[2018.07.22-05.54.57:552][852]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019020b7a328, Size=4
+[2018.07.22-05.54.57:553][852]LogUObjectGlobals: Created PersistentFrame Addr=0x000001902041fb58, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_356:ExecuteUbergraph_Elevator
+[2018.07.22-05.54.57:555][852]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019021813990, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.54.57:769][867]LogEditorTransaction: Undo 핀 링크 생성
+[2018.07.22-05.54.57:769][867]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019021813990, Size=4
+[2018.07.22-05.54.57:769][867]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019021813990, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_358:ExecuteUbergraph_Elevator
+[2018.07.22-05.54.57:772][867]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190218118d8, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.54.58:090][895]LogEditorTransaction: Undo 노드 이동
+[2018.07.22-05.54.58:090][895]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190218118d8, Size=4
+[2018.07.22-05.54.58:090][895]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190218118d8, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_360:ExecuteUbergraph_Elevator
+[2018.07.22-05.54.58:094][895]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019021813870, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.54.58:269][906]LogEditorTransaction: Undo 노드 이동
+[2018.07.22-05.54.58:270][906]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019021813870, Size=4
+[2018.07.22-05.54.58:270][906]LogUObjectGlobals: Created PersistentFrame Addr=0x000001902041c630, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_362:ExecuteUbergraph_Elevator
+[2018.07.22-05.54.58:273][906]LogUObjectGlobals: Created PersistentFrame Addr=0x000001902041c590, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.54.58:516][925]LogEditorTransaction: Undo 핀 링크 생성
+[2018.07.22-05.54.58:518][925]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001902041c590, Size=4
+[2018.07.22-05.54.58:518][925]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019021811970, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_364:ExecuteUbergraph_Elevator
+[2018.07.22-05.54.58:520][925]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019021810ad8, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.54.58:847][954]LogEditorTransaction: Undo 노드 이동
+[2018.07.22-05.54.58:848][954]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019021810ad8, Size=4
+[2018.07.22-05.54.58:848][954]LogUObjectGlobals: Created PersistentFrame Addr=0x000001902041c7d0, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_366:ExecuteUbergraph_Elevator
+[2018.07.22-05.54.58:850][954]LogUObjectGlobals: Created PersistentFrame Addr=0x000001902041cd70, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.54.59:052][968]LogEditorTransaction: Undo 노드 이동
+[2018.07.22-05.54.59:053][968]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001902041cd70, Size=4
+[2018.07.22-05.54.59:053][968]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190218116d0, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_368:ExecuteUbergraph_Elevator
+[2018.07.22-05.54.59:056][968]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019021813628, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.54.59:432][  3]LogEditorTransaction: Undo 노드 이동
+[2018.07.22-05.54.59:433][  3]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019021813628, Size=4
+[2018.07.22-05.54.59:433][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020b789b0, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_370:ExecuteUbergraph_Elevator
+[2018.07.22-05.54.59:436][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019020b7bc68, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.54.59:920][ 51]LogEditorTransaction: Undo 노드 이동
+[2018.07.22-05.54.59:921][ 51]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019020b7bc68, Size=4
+[2018.07.22-05.54.59:921][ 51]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190207dd2e0, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_372:ExecuteUbergraph_Elevator
+[2018.07.22-05.54.59:923][ 51]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190207deb88, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.55.01:457][219]LogEditorTransaction: Undo 핀 링크 끊기
+[2018.07.22-05.55.01:458][219]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190207deb88, Size=4
+[2018.07.22-05.55.01:458][219]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019021810af8, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_374:ExecuteUbergraph_Elevator
+[2018.07.22-05.55.01:461][219]LogUObjectGlobals: Created PersistentFrame Addr=0x000001900895e2d8, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.55.01:788][248]LogEditorTransaction: Undo 핀 링크 끊기
+[2018.07.22-05.55.01:789][248]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001900895e2d8, Size=4
+[2018.07.22-05.55.01:789][248]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190207de1d0, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_376:ExecuteUbergraph_Elevator
+[2018.07.22-05.55.01:792][248]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190207dd318, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.55.02:309][300]LogEditorTransaction: Undo 구조체 핀 분할
+[2018.07.22-05.55.02:310][300]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190207dd318, Size=4
+[2018.07.22-05.55.02:310][300]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f8d2d4fd8, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_378:ExecuteUbergraph_Elevator
+[2018.07.22-05.55.02:312][300]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f8d2d7ce8, Size=4, Default__SKEL_Elevator_C Function /Game/FirstPersonBP/Elevator.SKEL_Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.56.06:387][651]BlueprintLog: New page: Elevator 컴파일
+[2018.07.22-05.56.06:401][651]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f8d2d7ce8, Size=4
+[2018.07.22-05.56.06:401][651]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019021811140, Size=4, Default__SKEL_Elevator_C Function /Engine/Transient.REINST_SKEL_Elevator_C_380:ExecuteUbergraph_Elevator
+[2018.07.22-05.56.06:418][651]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019043abe020, Size=80
+[2018.07.22-05.56.06:418][651]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190200cd710, Size=80, Elevator_C_21196 Function /Engine/Transient.REINST_Elevator_C_384:ExecuteUbergraph_Elevator
+[2018.07.22-05.56.06:426][651]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019051781710, Size=80, Default__Elevator_C Function /Game/FirstPersonBP/Elevator.Elevator_C:ExecuteUbergraph_Elevator
+[2018.07.22-05.56.06:827][651]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.390 s
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: === Handled ensure: ===
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: 
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: Ensure condition failed: Component && (Component->GetOuter() == GeneratedClass) [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\Engine\Private\Blueprint.cpp] [Line: 1164]
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: 
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: Stack: 
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: [Callstack] 0x00000000A7DFB706 UE4Editor-Core.dll!UnknownFunction []
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: [Callstack] 0x00000000A7B5AE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: [Callstack] 0x00000000A7B6ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: [Callstack] 0x00000000A88BED44 UE4Editor-Engine.dll!UnknownFunction []
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: [Callstack] 0x0000000094D2E5B4 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: [Callstack] 0x00000000986DFA5D UE4Editor-Kismet.dll!UnknownFunction []
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: [Callstack] 0x0000000098680629 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: [Callstack] 0x0000000099A772F1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: [Callstack] 0x0000000098680043 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: [Callstack] 0x00000000986CFE41 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: [Callstack] 0x00000000986D4BA6 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: [Callstack] 0x00000000BBDD687F UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: [Callstack] 0x00000000BBECF8B6 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: [Callstack] 0x00000000BBE346B2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: [Callstack] 0x00000000BBE35BD9 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: [Callstack] 0x00000000BBEB12F5 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: [Callstack] 0x00000000BBF6B7F7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: [Callstack] 0x00000000BBF919E8 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: [Callstack] 0x00000000BBDB485C UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: [Callstack] 0x00000000BBD87D75 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: [Callstack] 0x00000000BBE1F617 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: [Callstack] 0x00000000BBE07D0D UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: [Callstack] 0x00000000BBDFB3E2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: [Callstack] 0x00000000CF9BE69B UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: [Callstack] 0x00000000CF9B1B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: [Callstack] 0x00000000CF9C052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: [Callstack] 0x00000000CF9AD679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: [Callstack] 0x00000000DCC26CC1 USER32.dll!UnknownFunction []
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: [Callstack] 0x00000000DCC26693 USER32.dll!UnknownFunction []
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: [Callstack] 0x00000000CF9C1666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: [Callstack] 0x000000000CDB5475 UE4Editor.exe!UnknownFunction []
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: [Callstack] 0x000000000CDC6BD0 UE4Editor.exe!UnknownFunction []
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: [Callstack] 0x000000000CDC6C4A UE4Editor.exe!UnknownFunction []
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: [Callstack] 0x000000000CDD4177 UE4Editor.exe!UnknownFunction []
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: [Callstack] 0x000000000CDD5B87 UE4Editor.exe!UnknownFunction []
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: [Callstack] 0x00000000DCDC3034 KERNEL32.DLL!UnknownFunction []
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: [Callstack] 0x00000000DDA91431 ntdll.dll!UnknownFunction []
+[2018.07.22-05.56.06:827][651]LogOutputDevice: Error: 
+[2018.07.22-05.56.06:828][651]LogStats:                SubmitErrorReport -  0.000 s
